@@ -54,6 +54,15 @@
 
 ---
 
+## DE-007 | Sumar contexto a Claude sobre Designer Eyes
+- **Prioridad:** 🟢 Baja
+- **Estado:** 🔴 Pendiente
+- **Responsable:** Andres Belmonte (Interno)
+- **Fecha límite:** 2026-04-29 (mañana)
+- **Contexto:** Continuar sesión con Claude para agregar más contexto sobre el funcionamiento de la empresa, equipo, flujos de trabajo y proyectos activos.
+
+---
+
 ## ✅ Completadas Recientes
 
 | ID | Tarea | Fecha cierre |
