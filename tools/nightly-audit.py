@@ -79,29 +79,62 @@ def check_product(product):
 
 # ── Email ────────────────────────────────────────────────────────────────────────
 
-def build_html(results, date_str, total, total_flagged):
+def build_html(results, date_str, total, total_flagged, site_counts):
     status_color = "#22c55e" if total_flagged == 0 else "#ef4444"
     passed       = total - total_flagged
 
+    # Per-site breakdown table
+    site_rows = ""
+    for site_name, count in site_counts.items():
+        site_flagged = sum(1 for r in results if r["client"] == site_name)
+        dot_color = "#22c55e" if site_flagged == 0 else "#ef4444"
+        flag_text = f"<span style='color:#ef4444;font-weight:700;'>{site_flagged} problema(s)</span>" if site_flagged > 0 else "<span style='color:#22c55e;'>Sin problemas</span>"
+        site_rows += (
+            f"<tr style='border-bottom:1px solid #f3f4f6;'>"
+            f"<td style='padding:10px 12px;font-size:13px;font-weight:700;'>"
+            f"<span style='display:inline-block;width:8px;height:8px;border-radius:50%;background:{dot_color};margin-right:8px;'></span>"
+            f"{site_name}</td>"
+            f"<td style='padding:10px 12px;font-size:13px;text-align:center;'>{count}</td>"
+            f"<td style='padding:10px 12px;font-size:13px;'>{flag_text}</td>"
+            f"</tr>"
+        )
+    site_table = (
+        "<h3 style='font-size:13px;color:#6b7280;text-transform:uppercase;letter-spacing:0.05em;margin:24px 0 8px;'>Detalle por sitio</h3>"
+        "<table style='width:100%;border-collapse:collapse;background:#fff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;margin-bottom:24px;'>"
+        "<thead><tr style='background:#f3f4f6;'>"
+        "<th style='padding:10px 12px;text-align:left;font-size:12px;color:#6b7280;'>Sitio</th>"
+        "<th style='padding:10px 12px;text-align:center;font-size:12px;color:#6b7280;'>Artículos verificados</th>"
+        "<th style='padding:10px 12px;text-align:left;font-size:12px;color:#6b7280;'>Estado</th>"
+        "</tr></thead>"
+        f"<tbody>{site_rows}</tbody></table>"
+    )
+
     # Build issues table
     if total_flagged == 0:
-        body_html = '<p style="color:#22c55e;font-weight:700;font-size:16px;">Todos los productos pasaron la auditoria.</p>'
+        body_html = (
+            site_table
+            + '<p style="color:#22c55e;font-weight:700;font-size:16px;">✅ Todos los productos pasaron la auditoria.</p>'
+        )
     else:
         rows = ""
         for r in results:
             rows += (
                 "<tr style='border-bottom:1px solid #e5e7eb;'>"
                 f"<td style='padding:10px;font-size:13px;color:#6b7280;font-weight:700;'>{r['client']}</td>"
-                f"<td style='padding:10px;font-size:13px;'><a href='{r['url']}' style='color:#6366f1;'>{r['title']}</a></td>"
+                f"<td style='padding:10px;font-size:13px;'>{r['title']}</td>"
                 f"<td style='padding:10px;font-size:12px;color:#ef4444;'>{r['issues']}</td>"
+                f"<td style='padding:10px;font-size:13px;'><a href='{r['url']}' style='color:#6366f1;text-decoration:none;font-weight:600;'>Ver producto →</a></td>"
                 "</tr>"
             )
         body_html = (
-            "<table style='width:100%;border-collapse:collapse;background:#fff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;'>"
+            site_table
+            + "<h3 style='font-size:13px;color:#6b7280;text-transform:uppercase;letter-spacing:0.05em;margin:0 0 8px;'>Productos con problemas</h3>"
+            + "<table style='width:100%;border-collapse:collapse;background:#fff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;'>"
             "<thead><tr style='background:#f3f4f6;'>"
             "<th style='padding:12px;text-align:left;font-size:12px;color:#6b7280;'>Sitio</th>"
             "<th style='padding:12px;text-align:left;font-size:12px;color:#6b7280;'>Producto</th>"
             "<th style='padding:12px;text-align:left;font-size:12px;color:#6b7280;'>Problema</th>"
+            "<th style='padding:12px;text-align:left;font-size:12px;color:#6b7280;'>Link</th>"
             "</tr></thead>"
             f"<tbody>{rows}</tbody></table>"
         )
@@ -156,6 +189,7 @@ def main():
     date_str     = datetime.now(timezone.utc).strftime("%d %b %Y")
     flagged_rows = []
     total        = 0
+    site_counts  = {}
 
     print(f"\n{'='*60}")
     print(f"  Nightly Product Audit — {date_str}")
@@ -166,6 +200,7 @@ def main():
         products = fetch_products(client["url"])
         print(f"  [{client_name}] {len(products)} products loaded\n")
         total += len(products)
+        site_counts[client_name] = len(products)
 
         flagged = 0
         for product in products:
@@ -199,7 +234,7 @@ def main():
         if total_flagged == 0
         else f"⚠️ Auditoría: {total_flagged} problema(s) — {date_str}"
     )
-    html = build_html(flagged_rows, date_str, total, total_flagged)
+    html = build_html(flagged_rows, date_str, total, total_flagged, site_counts)
     print("  Sending email...")
     send_email(subject, html)
     print("  Done.\n")
