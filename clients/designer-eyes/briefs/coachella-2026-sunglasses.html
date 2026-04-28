@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nota de Contenido — Coachella 2026 | Designer Eyes</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: #f5f4f0;
+      color: #1a1a1a;
+      line-height: 1.6;
+    }
+
+    /* TOP BAR */
+    .topbar {
+      background: #1a1a1a;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 32px;
+      font-size: 13px;
+      letter-spacing: 0.04em;
+    }
+    .topbar .agency { font-weight: 700; font-size: 15px; letter-spacing: 0.08em; }
+    .topbar .meta { opacity: 0.55; }
+    .badge {
+      background: #c8a96e;
+      color: #1a1a1a;
+      font-weight: 700;
+      font-size: 11px;
+      padding: 3px 10px;
+      border-radius: 20px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    /* HERO */
+    .hero {
+      background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 60%, #3a3020 100%);
+      color: #fff;
+      padding: 56px 32px 48px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -60px; right: -60px;
+      width: 320px; height: 320px;
+      background: radial-gradient(circle, rgba(200,169,110,0.18) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero .client-tag {
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #c8a96e;
+      margin-bottom: 12px;
+      font-weight: 600;
+    }
+    .hero h1 {
+      font-size: clamp(22px, 3vw, 34px);
+      font-weight: 800;
+      max-width: 680px;
+      line-height: 1.25;
+      margin-bottom: 16px;
+    }
+    .hero .subtitle {
+      opacity: 0.6;
+      font-size: 14px;
+      max-width: 520px;
+    }
+    .hero-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 24px;
+    }
+    .chip {
+      background: rgba(200,169,110,0.15);
+      border: 1px solid rgba(200,169,110,0.35);
+      color: #c8a96e;
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-weight: 500;
+    }
+
+    /* LAYOUT */
+    .container {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+
+    /* CARDS */
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 28px 28px;
+      margin-bottom: 24px;
+      border: 1px solid #e8e6e0;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    }
+    .card-title {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #c8a96e;
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .card-title::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: #e8e6e0;
+    }
+
+    /* META TABLE */
+    .meta-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    @media (max-width: 600px) { .meta-grid { grid-template-columns: 1fr; } }
+    .meta-item label {
+      display: block;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: #888;
+      margin-bottom: 4px;
+    }
+    .meta-item .val {
+      font-size: 14px;
+      color: #1a1a1a;
+      font-weight: 500;
+    }
+    .meta-item.full { grid-column: 1 / -1; }
+
+    /* KEYWORD PILLS */
+    .kw-group { margin-bottom: 16px; }
+    .kw-group h4 {
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: #888;
+      margin-bottom: 8px;
+    }
+    .pills { display: flex; flex-wrap: wrap; gap: 6px; }
+    .pill {
+      font-size: 13px;
+      padding: 5px 13px;
+      border-radius: 20px;
+      font-weight: 500;
+    }
+    .pill.primary { background: #1a1a1a; color: #fff; }
+    .pill.secondary { background: #f0ece3; color: #1a1a1a; border: 1px solid #ddd8cc; }
+    .pill.lsi { background: #fff; color: #888; border: 1px solid #e0ddd5; }
+
+    /* STRUCTURE */
+    .structure-item {
+      padding: 10px 0;
+      border-bottom: 1px solid #f0ece3;
+    }
+    .structure-item:last-child { border-bottom: none; }
+    .h-tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      padding: 2px 7px;
+      border-radius: 4px;
+      margin-right: 8px;
+      vertical-align: middle;
+    }
+    .h1-tag { background: #1a1a1a; color: #fff; }
+    .h2-tag { background: #c8a96e; color: #fff; }
+    .h3-tag { background: #f0ece3; color: #8a7040; border: 1px solid #ddd8cc; }
+    .structure-item .text { font-size: 14px; font-weight: 500; }
+    .structure-item .desc { font-size: 12px; color: #888; margin-top: 3px; padding-left: 36px; }
+
+    /* BRANDS */
+    .brands-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .brand-card {
+      background: #f9f7f3;
+      border: 1px solid #e8e4d8;
+      border-radius: 10px;
+      padding: 14px 18px;
+      flex: 1;
+      min-width: 140px;
+      text-align: center;
+    }
+    .brand-card .brand-name { font-weight: 800; font-size: 15px; letter-spacing: 0.04em; }
+    .brand-card .brand-style { font-size: 12px; color: #888; margin-top: 4px; }
+
+    /* CTA BOX */
+    .cta-box {
+      background: linear-gradient(135deg, #1a1a1a, #2d2520);
+      color: #fff;
+      border-radius: 12px;
+      padding: 28px;
+      margin-bottom: 24px;
+    }
+    .cta-box .cta-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #c8a96e;
+      margin-bottom: 10px;
+    }
+    .cta-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      font-size: 14px;
+    }
+    .cta-item:last-child { border-bottom: none; }
+    .cta-arrow { color: #c8a96e; font-weight: 700; flex-shrink: 0; }
+
+    /* PHOTO BOX */
+    .photo-box {
+      background: #f9f7f3;
+      border: 1.5px dashed #c8a96e;
+      border-radius: 12px;
+      padding: 24px;
+      display: flex;
+      gap: 18px;
+      align-items: flex-start;
+    }
+    .photo-icon {
+      font-size: 36px;
+      flex-shrink: 0;
+    }
+    .photo-desc { font-size: 14px; color: #444; line-height: 1.65; }
+    .photo-desc strong { color: #1a1a1a; display: block; margin-bottom: 6px; font-size: 15px; }
+
+    /* NOTES */
+    .notes-list { list-style: none; }
+    .notes-list li {
+      padding: 8px 0 8px 20px;
+      position: relative;
+      font-size: 14px;
+      color: #333;
+      border-bottom: 1px solid #f0ece3;
+    }
+    .notes-list li:last-child { border-bottom: none; }
+    .notes-list li::before {
+      content: '·';
+      position: absolute; left: 6px;
+      color: #c8a96e;
+      font-weight: 900;
+      font-size: 18px;
+      line-height: 1.2;
+    }
+
+    /* DEADLINE */
+    .deadline-banner {
+      background: #fff8ed;
+      border: 1px solid #f0c96e;
+      border-radius: 10px;
+      padding: 14px 20px;
+      font-size: 14px;
+      color: #7a5a10;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 24px;
+    }
+    .deadline-banner strong { font-weight: 700; }
+  </style>
+</head>
+<body>
+
+  <div class="topbar">
+    <span class="agency">Trill Digital Media</span>
+    <span class="meta">Designer Eyes · Blog SEO · Abril 2026</span>
+    <span class="badge">Content Brief</span>
+  </div>
+
+  <div class="hero">
+    <div class="client-tag">Designer Eyes — Blog</div>
+    <h1>The Best Coachella Sunglasses to Wear in 2026 — Luxury Picks for Festival Season</h1>
+    <p class="subtitle">Nota de contenido para el equipo de redacción. Uso interno — Trill Digital Media.</p>
+    <div class="hero-chips">
+      <span class="chip">Coachella 2026</span>
+      <span class="chip">Sunglasses Trends</span>
+      <span class="chip">Loewe · Fendi · Gucci · Cartier</span>
+      <span class="chip">1,200 – 1,600 words</span>
+      <span class="chip">Publish before Apr 18</span>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="deadline-banner">
+      ⏰ <span><strong>Fecha límite de publicación:</strong> antes del 18 de abril de 2026 para capturar el pico de búsquedas de Coachella.</span>
+    </div>
+
+    <!-- META -->
+    <div class="card">
+      <div class="card-title">Datos SEO</div>
+      <div class="meta-grid">
+        <div class="meta-item full">
+          <label>H1 / Título del artículo</label>
+          <div class="val">The Best Coachella Sunglasses to Wear in 2026 — Luxury Picks for Festival Season</div>
+        </div>
+        <div class="meta-item">
+          <label>Meta Title (60 chars)</label>
+          <div class="val">Best Coachella Sunglasses 2026 | Designer Eyes</div>
+        </div>
+        <div class="meta-item">
+          <label>Meta Description (155 chars)</label>
+          <div class="val">Shop the best Coachella sunglasses 2026 — Loewe, Fendi, Gucci & Cartier picks to elevate your festival look. Free shipping at Designer Eyes.</div>
+        </div>
+        <div class="meta-item">
+          <label>Audiencia objetivo</label>
+          <div class="val">Mujeres 22–38, fashionistas, asistentes a festivales, compradoras de lentes de diseñador en USA</div>
+        </div>
+        <div class="meta-item">
+          <label>Objetivo del artículo</label>
+          <div class="val">Capturar tráfico estacional de alta intención comercial durante el pico de búsquedas de Coachella y convertirlo en ventas</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- KEYWORDS -->
+    <div class="card">
+      <div class="card-title">Keyword Map</div>
+      <div class="kw-group">
+        <h4>Principal</h4>
+        <div class="pills">
+          <span class="pill primary">coachella sunglasses 2026</span>
+        </div>
+      </div>
+      <div class="kw-group">
+        <h4>Secundarias</h4>
+        <div class="pills">
+          <span class="pill secondary">best sunglasses for Coachella</span>
+          <span class="pill secondary">festival sunglasses</span>
+          <span class="pill secondary">Coachella eyewear</span>
+          <span class="pill secondary">Loewe sunglasses Coachella</span>
+          <span class="pill secondary">trend sunglasses 2026</span>
+        </div>
+      </div>
+      <div class="kw-group">
+        <h4>LSI / Semánticas</h4>
+        <div class="pills">
+          <span class="pill lsi">luxury festival sunglasses</span>
+          <span class="pill lsi">designer sunglasses festival</span>
+          <span class="pill lsi">oversized sunglasses festival</span>
+          <span class="pill lsi">trendy sunglasses 2026</span>
+          <span class="pill lsi">Coachella outfit sunglasses</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- BRANDS -->
+    <div class="card">
+      <div class="card-title">Colecciones / Marcas</div>
+      <div class="brands-row">
+        <div class="brand-card"><div class="brand-name">Loewe</div><div class="brand-style">Oversized & Architectural</div></div>
+        <div class="brand-card"><div class="brand-name">Fendi</div><div class="brand-style">Retro-Futuristic Shields</div></div>
+        <div class="brand-card"><div class="brand-name">Gucci</div><div class="brand-style">Logo-Forward Glam</div></div>
+        <div class="brand-card"><div class="brand-name">Cartier</div><div class="brand-style">Timeless Desert Luxury</div></div>
+      </div>
+    </div>
+
+    <!-- STRUCTURE -->
+    <div class="card">
+      <div class="card-title">Estructura del Artículo</div>
+      <div class="structure-item">
+        <span class="h-tag h1-tag">H1</span><span class="text">The Best Coachella Sunglasses to Wear in 2026 — Luxury Picks for Festival Season</span>
+      </div>
+      <div class="structure-item">
+        <span class="h-tag h2-tag">H2</span><span class="text">Why Sunglasses Are the Most Important Coachella Accessory</span>
+        <div class="desc">Por qué los lentes definen el look en festival · Dato de búsqueda: pico de "Coachella sunglasses" en marzo-abril</div>
+      </div>
+      <div class="structure-item">
+        <span class="h-tag h2-tag">H2</span><span class="text">The 2026 Coachella Sunglasses Trends You Need to Know</span>
+      </div>
+      <div class="structure-item">
+        <span class="h-tag h3-tag">H3</span><span class="text">Oversized & Architectural Frames — Loewe</span>
+        <div class="desc">2 modelos específicos · CTA a colección Loewe en Designer Eyes</div>
+      </div>
+      <div class="structure-item">
+        <span class="h-tag h3-tag">H3</span><span class="text">Retro-Futuristic Shields — Fendi</span>
+        <div class="desc">2 modelos específicos · CTA a colección Fendi en Designer Eyes</div>
+      </div>
+      <div class="structure-item">
+        <span class="h-tag h3-tag">H3</span><span class="text">Logo-Forward Glam — Gucci</span>
+        <div class="desc">2 modelos específicos · CTA a colección Gucci en Designer Eyes</div>
+      </div>
+      <div class="structure-item">
+        <span class="h-tag h3-tag">H3</span><span class="text">Timeless Desert Luxury — Cartier</span>
+        <div class="desc">2 modelos específicos · CTA a colección Cartier en Designer Eyes</div>
+      </div>
+      <div class="structure-item">
+        <span class="h-tag h2-tag">H2</span><span class="text">How to Choose the Right Sunglasses for a Festival</span>
+        <div class="desc">Protección UV, durabilidad, comodidad, estilo · Tip sobre valor de invertir en calidad</div>
+      </div>
+      <div class="structure-item">
+        <span class="h-tag h2-tag">H2</span><span class="text">FAQ — Coachella Sunglasses</span>
+        <div class="desc">Are designer sunglasses worth it for Coachella? · What sunglasses are trending? · Best frame shape for a festival? · Where to buy online?</div>
+      </div>
+    </div>
+
+    <!-- PHOTO -->
+    <div class="card">
+      <div class="card-title">Foto de Portada</div>
+      <div class="photo-box">
+        <div class="photo-icon">📸</div>
+        <div class="photo-desc">
+          <strong>Descripción para el equipo creativo</strong>
+          Grupo de jóvenes con actitud fashionista usando sunglasses de diseñador en un festival de música al aire libre bajo el sol del desierto. Paleta cálida: dorados, beige, atardecer. Estilo editorial, no stock genérico. Preferiblemente referencia visual a Coachella Valley o estética de festival premium.
+        </div>
+      </div>
+    </div>
+
+    <!-- CTAs -->
+    <div class="cta-box">
+      <div class="cta-label">CTAs sugeridos</div>
+      <div class="cta-item"><span class="cta-arrow">→</span><span>Shop [Brand] sunglasses at Designer Eyes — link a cada colección de marca</span></div>
+      <div class="cta-item"><span class="cta-arrow">→</span><span>Browse all festival-ready sunglasses — link a /collections/sunglasses</span></div>
+      <div class="cta-item"><span class="cta-arrow">→</span><span>CTA final: Shop all Coachella-ready styles at Designer Eyes con botón de acción</span></div>
+    </div>
+
+    <!-- NOTES -->
+    <div class="card">
+      <div class="card-title">Notas para el Redactor</div>
+      <ul class="notes-list">
+        <li>Tono: editorial, aspiracional, experto en moda — no comercial directo</li>
+        <li>Longitud sugerida: 1,200 – 1,600 palabras</li>
+        <li>Cada sección de marca debe mencionar 1–2 modelos específicos con link a la colección en Designer Eyes</li>
+        <li>Incluir al menos 1 imagen por marca mencionada</li>
+        <li>Usar /collections/sunglasses como fallback si no existe URL específica de colección</li>
+        <li>La sección FAQ está diseñada para capturar los People Also Ask más comunes de esta query</li>
+        <li>Coordinar con Email Marketing: los 4 bloques de tendencia son reutilizables en newsletter de Coachella</li>
+      </ul>
+    </div>
+
+  </div>
+</body>
+</html>

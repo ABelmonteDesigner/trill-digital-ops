@@ -1,0 +1,16 @@
+# Claude internals
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y temporales
+*.log
+*.tmp
+~$*
+
+# Assets grandes (subir manualmente si se necesitan)
+assets/images/
+assets/videos/

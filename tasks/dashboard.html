@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trill Digital — Task Dashboard</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --surface2: #222636;
+    --border: #2e3347;
+    --text: #e8eaf0;
+    --text-muted: #6b7280;
+    --red: #ef4444;
+    --red-bg: #1f1115;
+    --red-border: #7f1d1d;
+    --yellow: #f59e0b;
+    --yellow-bg: #1a160a;
+    --yellow-border: #78350f;
+    --green: #22c55e;
+    --green-bg: #0d1a12;
+    --green-border: #14532d;
+    --blue: #3b82f6;
+    --blue-bg: #0d1526;
+    --blue-border: #1e3a5f;
+    --purple: #a855f7;
+    --purple-bg: #170d26;
+    --de-color: #6366f1;
+    --se-color: #06b6d4;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* HEADER */
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 20px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(10px);
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .logo-icon {
+    width: 36px;
+    height: 36px;
+    background: linear-gradient(135deg, var(--de-color), var(--se-color));
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+  }
+
+  .logo-text h1 { font-size: 16px; font-weight: 700; letter-spacing: -0.3px; }
+  .logo-text p { font-size: 12px; color: var(--text-muted); }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .date-badge {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 14px;
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+
+  .date-badge span { color: var(--text); font-weight: 600; }
+
+  /* STATS */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px;
+    padding: 28px 32px 0;
+  }
+
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.2s, border-color 0.2s;
+    cursor: default;
+  }
+
+  .stat-card:hover { transform: translateY(-2px); }
+
+  .stat-card.urgente { border-color: var(--red-border); background: var(--red-bg); }
+  .stat-card.media { border-color: var(--yellow-border); background: var(--yellow-bg); }
+  .stat-card.baja { border-color: var(--green-border); background: var(--green-bg); }
+  .stat-card.completada { border-color: var(--blue-border); background: var(--blue-bg); }
+  .stat-card.total { border-color: var(--border); }
+
+  .stat-label {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+  }
+
+  .stat-number {
+    font-size: 42px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: -2px;
+  }
+
+  .stat-card.urgente .stat-number { color: var(--red); }
+  .stat-card.media .stat-number { color: var(--yellow); }
+  .stat-card.baja .stat-number { color: var(--green); }
+  .stat-card.completada .stat-number { color: var(--blue); }
+  .stat-card.total .stat-number { color: var(--text); }
+
+  .stat-sub {
+    font-size: 12px;
+    color: var(--text-muted);
+    margin-top: 6px;
+  }
+
+  /* FILTERS */
+  .filters {
+    padding: 20px 32px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .filter-label { font-size: 12px; color: var(--text-muted); margin-right: 4px; }
+
+  .filter-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 7px 16px;
+    font-size: 13px;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+
+  .filter-btn:hover { border-color: #4b5563; color: var(--text); }
+  .filter-btn.active { background: var(--de-color); border-color: var(--de-color); color: #fff; }
+  .filter-btn.active.se { background: var(--se-color); border-color: var(--se-color); }
+  .filter-btn.active.all { background: var(--surface2); border-color: #4b5563; color: var(--text); }
+
+  .divider { width: 1px; height: 24px; background: var(--border); }
+
+  .search-box {
+    margin-left: auto;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 7px 14px;
+    font-size: 13px;
+    color: var(--text);
+    font-family: inherit;
+    width: 200px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .search-box::placeholder { color: var(--text-muted); }
+  .search-box:focus { border-color: var(--de-color); }
+
+  /* VIEW TABS */
+  .view-tabs {
+    padding: 0 32px 20px;
+    display: flex;
+    gap: 4px;
+    border-bottom: 1px solid var(--border);
+    margin: 0 0 24px;
+  }
+
+  .view-tab {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 8px 18px;
+    font-size: 14px;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+    margin-bottom: -1px;
+  }
+
+  .view-tab:hover { color: var(--text); }
+  .view-tab.active { color: var(--text); border-bottom-color: var(--de-color); font-weight: 600; }
+
+  /* MAIN CONTENT */
+  main { padding: 0 32px 48px; }
+
+  /* PRIORITY SECTIONS */
+  .priority-section {
+    margin-bottom: 32px;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .section-title {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+
+  .section-count {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 2px 10px;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
+  .tasks-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 14px;
+  }
+
+  /* TASK CARD */
+  .task-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px;
+    position: relative;
+    transition: transform 0.15s, box-shadow 0.15s;
+    cursor: default;
+    overflow: hidden;
+  }
+
+  .task-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+  }
+
+  .task-card::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    border-radius: 14px 0 0 14px;
+  }
+
+  .task-card.alta::before { background: var(--red); }
+  .task-card.media::before { background: var(--yellow); }
+  .task-card.baja::before { background: var(--green); }
+  .task-card.completada::before { background: var(--blue); }
+
+  .task-card-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  .task-id {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-muted);
+    letter-spacing: 0.5px;
+    margin-bottom: 4px;
+  }
+
+  .task-title {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--text);
+  }
+
+  .task-card.completada .task-title {
+    text-decoration: line-through;
+    opacity: 0.6;
+  }
+
+  .project-badge {
+    flex-shrink: 0;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    padding: 4px 10px;
+    border-radius: 6px;
+  }
+
+  .project-badge.de {
+    background: rgba(99,102,241,0.15);
+    color: var(--de-color);
+    border: 1px solid rgba(99,102,241,0.3);
+  }
+
+  .project-badge.se {
+    background: rgba(6,182,212,0.15);
+    color: var(--se-color);
+    border: 1px solid rgba(6,182,212,0.3);
+  }
+
+  .task-meta {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+
+  .meta-chip {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
+  .meta-chip.deadline { color: var(--text); }
+  .meta-chip.overdue { color: var(--red); border-color: var(--red-border); background: var(--red-bg); }
+  .meta-chip.today { color: var(--yellow); border-color: var(--yellow-border); background: var(--yellow-bg); }
+
+  .status-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .dot-red { background: var(--red); }
+  .dot-yellow { background: var(--yellow); }
+  .dot-green { background: var(--green); }
+  .dot-blue { background: var(--blue); }
+
+  .task-responsibles {
+    font-size: 12px;
+    color: var(--text-muted);
+    line-height: 1.5;
+    border-top: 1px solid var(--border);
+    padding-top: 12px;
+    margin-top: 4px;
+  }
+
+  .resp-label { color: var(--text-muted); font-weight: 600; margin-right: 4px; }
+
+  .resp-tag {
+    display: inline-block;
+    background: var(--surface2);
+    border-radius: 4px;
+    padding: 1px 7px;
+    margin: 2px 3px 2px 0;
+    font-size: 11px;
+    border: 1px solid var(--border);
+  }
+
+  .resp-tag.internal { color: var(--purple); border-color: rgba(168,85,247,0.3); background: rgba(168,85,247,0.08); }
+  .resp-tag.external { color: #94a3b8; }
+
+  /* RESPONSIBLE VIEW */
+  .responsible-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 20px;
+  }
+
+  .responsible-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+  }
+
+  .responsible-header {
+    padding: 16px 20px;
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+
+  .avatar.internal { background: rgba(168,85,247,0.2); color: var(--purple); border: 1px solid rgba(168,85,247,0.3); }
+  .avatar.external { background: rgba(148,163,184,0.1); color: #94a3b8; border: 1px solid var(--border); }
+
+  .resp-name { font-size: 15px; font-weight: 600; }
+  .resp-role { font-size: 12px; color: var(--text-muted); }
+
+  .resp-task-count {
+    margin-left: auto;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px 12px;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
+  .responsible-tasks { padding: 12px; display: flex; flex-direction: column; gap: 8px; }
+
+  .mini-task {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 9px;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .mini-task-id { font-size: 11px; color: var(--text-muted); font-weight: 700; width: 46px; flex-shrink: 0; }
+  .mini-task-name { font-size: 13px; flex: 1; }
+  .mini-task-date { font-size: 11px; color: var(--text-muted); flex-shrink: 0; }
+
+  .priority-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  /* COMPLETED SECTION */
+  .completed-table {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .completed-table table { width: 100%; border-collapse: collapse; }
+
+  .completed-table th {
+    background: var(--surface2);
+    padding: 12px 20px;
+    text-align: left;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--text-muted);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .completed-table td {
+    padding: 14px 20px;
+    font-size: 14px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+  }
+
+  .completed-table tr:last-child td { border-bottom: none; }
+  .completed-table tr:hover td { background: var(--surface2); }
+
+  .check-icon {
+    width: 22px;
+    height: 22px;
+    background: rgba(34,197,94,0.15);
+    border: 1px solid rgba(34,197,94,0.3);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+  }
+
+  /* HIDDEN STATE */
+  .hidden { display: none !important; }
+
+  /* EMPTY STATE */
+  .empty-state {
+    text-align: center;
+    padding: 48px;
+    color: var(--text-muted);
+    font-size: 14px;
+  }
+
+  /* SCROLLBAR */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+  @media (max-width: 768px) {
+    .stats-grid { grid-template-columns: repeat(2, 1fr); }
+    header { padding: 16px 20px; }
+    .filters, main { padding-left: 20px; padding-right: 20px; }
+    .stats-grid { padding: 20px 20px 0; }
+    .view-tabs { padding: 0 20px 20px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">🎯</div>
+    <div class="logo-text">
+      <h1>Trill Digital Media</h1>
+      <p>Task Dashboard</p>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="date-badge">Actualizado: <span id="update-date">28 abr 2026</span></div>
+  </div>
+</header>
+
+<!-- STATS -->
+<div class="stats-grid">
+  <div class="stat-card total">
+    <div class="stat-label">Total activas</div>
+    <div class="stat-number" id="stat-total">0</div>
+    <div class="stat-sub">en ambos proyectos</div>
+  </div>
+  <div class="stat-card urgente">
+    <div class="stat-label">🔴 Alta prioridad</div>
+    <div class="stat-number" id="stat-alta">0</div>
+    <div class="stat-sub">requieren atención inmediata</div>
+  </div>
+  <div class="stat-card media">
+    <div class="stat-label">🟡 Prioridad media</div>
+    <div class="stat-number" id="stat-media">0</div>
+    <div class="stat-sub">esta semana</div>
+  </div>
+  <div class="stat-card baja">
+    <div class="stat-label">🟢 Prioridad baja</div>
+    <div class="stat-number" id="stat-baja">0</div>
+    <div class="stat-sub">sin urgencia inmediata</div>
+  </div>
+  <div class="stat-card completada">
+    <div class="stat-label">✅ Completadas</div>
+    <div class="stat-number" id="stat-completada">0</div>
+    <div class="stat-sub">cerradas recientemente</div>
+  </div>
+</div>
+
+<!-- FILTERS -->
+<div class="filters">
+  <span class="filter-label">Proyecto:</span>
+  <button class="filter-btn active all" onclick="setFilter('project', 'all', this)">Todos</button>
+  <button class="filter-btn" onclick="setFilter('project', 'DE', this)">Designer Eyes</button>
+  <button class="filter-btn se" onclick="setFilter('project', 'SE', this)">Shades Eyeconic</button>
+  <div class="divider"></div>
+  <span class="filter-label">Estado:</span>
+  <button class="filter-btn active all" onclick="setFilter('status', 'all', this)" id="statusAll">Todos</button>
+  <button class="filter-btn" onclick="setFilter('status', 'alta', this)">🔴 Alta</button>
+  <button class="filter-btn" onclick="setFilter('status', 'media', this)">🟡 Media</button>
+  <button class="filter-btn" onclick="setFilter('status', 'baja', this)">🟢 Baja</button>
+  <input class="search-box" type="text" placeholder="🔍  Buscar tarea..." oninput="filterSearch(this.value)">
+</div>
+
+<!-- VIEW TABS -->
+<div class="view-tabs">
+  <button class="view-tab active" onclick="setView('priority', this)">Por prioridad</button>
+  <button class="view-tab" onclick="setView('responsible', this)">Por responsable</button>
+  <button class="view-tab" onclick="setView('completed', this)">Completadas</button>
+</div>
+
+<main>
+
+  <!-- PRIORITY VIEW -->
+  <div id="view-priority">
+
+    <div class="priority-section" id="section-alta">
+      <div class="section-header">
+        <div class="status-dot dot-red"></div>
+        <span class="section-title" style="color:var(--red)">Alta Prioridad</span>
+        <span class="section-count" id="count-alta">0</span>
+      </div>
+      <div class="tasks-grid" id="grid-alta"></div>
+    </div>
+
+    <div class="priority-section" id="section-media">
+      <div class="section-header">
+        <div class="status-dot dot-yellow"></div>
+        <span class="section-title" style="color:var(--yellow)">Prioridad Media</span>
+        <span class="section-count" id="count-media">0</span>
+      </div>
+      <div class="tasks-grid" id="grid-media"></div>
+    </div>
+
+    <div class="priority-section" id="section-baja">
+      <div class="section-header">
+        <div class="status-dot dot-green"></div>
+        <span class="section-title" style="color:var(--green)">Prioridad Baja</span>
+        <span class="section-count" id="count-baja">0</span>
+      </div>
+      <div class="tasks-grid" id="grid-baja"></div>
+    </div>
+
+  </div>
+
+  <!-- RESPONSIBLE VIEW -->
+  <div id="view-responsible" class="hidden">
+    <div class="responsible-grid" id="grid-responsible"></div>
+  </div>
+
+  <!-- COMPLETED VIEW -->
+  <div id="view-completed" class="hidden">
+    <div class="completed-table">
+      <table>
+        <thead>
+          <tr>
+            <th>Estado</th>
+            <th>ID</th>
+            <th>Tarea</th>
+            <th>Proyecto</th>
+            <th>Fecha cierre</th>
+          </tr>
+        </thead>
+        <tbody id="table-completed"></tbody>
+      </table>
+    </div>
+  </div>
+
+</main>
+
+<script>
+// ─── DATA ───────────────────────────────────────────────────────────────────
+
+const tasks = [
+  {
+    id: "DE-001",
+    title: "Upload Jacques Marie Mage",
+    priority: "alta",
+    project: "DE",
+    status: "En progreso",
+    statusDot: "yellow",
+    deadline: "2026-04-29",
+    deadlineLabel: "Miérc 29/04",
+    deadlineType: "normal",
+    context: "Kevin Le envió el archivo JMM. Al finalizar, notificar a Kevin.",
+    responsibles: [
+      { name: "Andres Belmonte", type: "internal" },
+      { name: "Esteban Devia", type: "external", company: "Loxia Tech" }
+    ]
+  },
+  {
+    id: "DE-002",
+    title: "Upload 42 ítems faltantes",
+    subtitle: "Akoni, Balmain, Thelios, Movitra",
+    priority: "alta",
+    project: "DE",
+    status: "En progreso",
+    statusDot: "yellow",
+    deadline: "2026-04-29",
+    deadlineLabel: "Miérc 29/04",
+    deadlineType: "normal",
+    context: "Kevin marcó 42 ítems sin completar. Movitra no tiene competencia online — urgente.",
+    responsibles: [
+      { name: "Andres Belmonte", type: "internal" },
+      { name: "Lihuen", type: "external", company: "Fantina" }
+    ]
+  },
+  {
+    id: "DE-003",
+    title: "Verificar medición Google Ads post-fix",
+    priority: "media",
+    project: "DE",
+    status: "En seguimiento",
+    statusDot: "yellow",
+    deadline: "2026-05-01",
+    deadlineLabel: "Jueves 01/05",
+    deadlineType: "normal",
+    context: "Fix implementado en AW-929159711. Revisión con Growketing el jueves.",
+    responsibles: [
+      { name: "Andres Belmonte", type: "internal" },
+      { name: "Agus / Noe", type: "external", company: "Growketing" }
+    ]
+  },
+  {
+    id: "DE-005",
+    title: "Revisión RB Exclusives / Luxottica overlaps con SE",
+    priority: "media",
+    project: "DE",
+    status: "Pendiente",
+    statusDot: "red",
+    deadline: "2026-04-28",
+    deadlineLabel: "Esta semana",
+    deadlineType: "today",
+    context: "Kevin envió Ray-Ban exclusivos el 13/04. Revisar overlaps con shadeseyeconic.com.",
+    responsibles: [
+      { name: "Andres Belmonte", type: "internal" },
+      { name: "Lorena Sparrow", type: "internal" }
+    ]
+  },
+  {
+    id: "SE-002",
+    title: "Verificar medición Google Ads post-fix",
+    priority: "media",
+    project: "SE",
+    status: "En seguimiento",
+    statusDot: "yellow",
+    deadline: "2026-05-01",
+    deadlineLabel: "Jueves 01/05",
+    deadlineType: "normal",
+    context: "Fix implementado en AW-16545207703. Revisión con Growketing el jueves.",
+    responsibles: [
+      { name: "Andres Belmonte", type: "internal" },
+      { name: "Agus / Noe", type: "external", company: "Growketing" }
+    ]
+  },
+  {
+    id: "SE-003",
+    title: "Revisar performance email 'Gift ideas for mom'",
+    priority: "baja",
+    project: "SE",
+    status: "Monitorear",
+    statusDot: "green",
+    deadline: null,
+    deadlineLabel: "Semana del 27/04",
+    deadlineType: "normal",
+    context: "Email enviado el 23/04. Revisar open rate, CTR y revenue en Klaviyo.",
+    responsibles: [
+      { name: "Andres Belmonte", type: "internal" }
+    ]
+  }
+];
+
+const completed = [
+  { id: "DE-004", title: "Pase a producción bloques Home (Shopify)", project: "DE", date: "27/04/2026", dateSort: "2026-04-27" },
+  { id: "DE-006", title: "Reunión con Mallika (Shopify) — 30 min", project: "DE", date: "27/04/2026", dateSort: "2026-04-27" },
+  { id: "SE-001", title: "Definir nomenclatura AlwaysOn / Deals", project: "SE", date: "28/04/2026", dateSort: "2026-04-28" },
+  { id: "—", title: "Klaviyo cuenta suspendida — reactivación", project: "DE", date: "24/04/2026", dateSort: "2026-04-24" },
+  { id: "—", title: "Links de imágenes Luxottica rotos", project: "DE", date: "24/04/2026", dateSort: "2026-04-24" },
+  { id: "—", title: "Eventos Shopify duplicados — unificación", project: "SE", date: "23/04/2026", dateSort: "2026-04-23" },
+  { id: "—", title: "GTM/GA4 accesos para Lop Multimedia (DE + SE)", project: "DE/SE", date: "~17/04/2026", dateSort: "2026-04-17" }
+];
+
+const responsibles = [
+  {
+    name: "Andres Belmonte",
+    role: "Marketing / Operaciones",
+    type: "internal",
+    taskIds: ["DE-001", "DE-002", "DE-003", "DE-005", "SE-002", "SE-003"]
+  },
+  {
+    name: "Lihuen",
+    role: "Tech Lead — Fantina",
+    type: "external",
+    taskIds: ["DE-002"]
+  },
+  {
+    name: "Esteban Devia",
+    role: "PM Integraciones — Loxia Tech",
+    type: "external",
+    taskIds: ["DE-001"]
+  },
+  {
+    name: "Lorena Sparrow",
+    role: "Marketing Manager",
+    type: "internal",
+    taskIds: ["DE-005"]
+  },
+  {
+    name: "Agus / Noe",
+    role: "Agencia — Growketing",
+    type: "external",
+    taskIds: ["DE-003", "SE-002"]
+  }
+];
+
+// ─── STATE ──────────────────────────────────────────────────────────────────
+let filters = { project: 'all', status: 'all', search: '' };
+let currentView = 'priority';
+
+// ─── RENDER ─────────────────────────────────────────────────────────────────
+
+function getDeadlineChip(t) {
+  if (!t.deadlineLabel) return '';
+  let cls = 'deadline';
+  let icon = '📅';
+  if (t.deadlineType === 'overdue') { cls = 'overdue'; icon = '⚠️'; }
+  if (t.deadlineType === 'today') { cls = 'today'; icon = '⏰'; }
+  return `<div class="meta-chip ${cls}">${icon} ${t.deadlineLabel}</div>`;
+}
+
+function getStatusChip(t) {
+  const dots = { red: 'dot-red', yellow: 'dot-yellow', green: 'dot-green', blue: 'dot-blue' };
+  return `<div class="meta-chip"><div class="status-dot ${dots[t.statusDot] || 'dot-yellow'}"></div>${t.status}</div>`;
+}
+
+function getResponsibles(t) {
+  const tags = t.responsibles.map(r => {
+    const label = r.company ? `${r.name} <span style="opacity:0.6">(${r.company})</span>` : r.name;
+    return `<span class="resp-tag ${r.type}">${label}</span>`;
+  }).join('');
+  return `<div class="task-responsibles"><span class="resp-label">👤</span>${tags}</div>`;
+}
+
+function renderCard(t) {
+  const sub = t.subtitle ? `<div style="font-size:12px;color:var(--text-muted);margin-top:2px">${t.subtitle}</div>` : '';
+  return `
+    <div class="task-card ${t.priority}" data-id="${t.id}" data-project="${t.project}" data-priority="${t.priority}">
+      <div class="task-card-top">
+        <div>
+          <div class="task-id">${t.id}</div>
+          <div class="task-title">${t.title}</div>
+          ${sub}
+        </div>
+        <span class="project-badge ${t.project.toLowerCase()}">${t.project === 'DE' ? 'Designer Eyes' : 'Shades Eyeconic'}</span>
+      </div>
+      <div class="task-meta">
+        ${getStatusChip(t)}
+        ${getDeadlineChip(t)}
+      </div>
+      <div style="font-size:12px;color:var(--text-muted);line-height:1.5;margin-bottom:12px">${t.context}</div>
+      ${getResponsibles(t)}
+    </div>`;
+}
+
+function renderPriorityView(filtered) {
+  ['alta', 'media', 'baja'].forEach(p => {
+    const group = filtered.filter(t => t.priority === p);
+    document.getElementById(`grid-${p}`).innerHTML = group.length
+      ? group.map(renderCard).join('')
+      : `<div class="empty-state">No hay tareas en esta categoría</div>`;
+    document.getElementById(`count-${p}`).textContent = group.length;
+    document.getElementById(`section-${p}`).style.display = group.length === 0 && filtered.length > 0 ? 'none' : '';
+  });
+}
+
+function renderResponsibleView() {
+  const grid = document.getElementById('grid-responsible');
+  grid.innerHTML = responsibles.map(r => {
+    const initials = r.name.split(' ').map(w => w[0]).slice(0, 2).join('');
+    const rTasks = tasks.filter(t => r.taskIds.includes(t.id));
+    const dotColor = { alta: 'dot-red', media: 'dot-yellow', baja: 'dot-green' };
+    const miniTasks = rTasks.map(t => `
+      <div class="mini-task">
+        <div class="priority-dot ${dotColor[t.priority]}"></div>
+        <span class="mini-task-id">${t.id}</span>
+        <span class="mini-task-name">${t.title}</span>
+        <span class="mini-task-date">${t.deadlineLabel || '—'}</span>
+      </div>`).join('');
+    return `
+      <div class="responsible-card">
+        <div class="responsible-header">
+          <div class="avatar ${r.type}">${initials}</div>
+          <div>
+            <div class="resp-name">${r.name}</div>
+            <div class="resp-role">${r.role}</div>
+          </div>
+          <div class="resp-task-count">${rTasks.length} tarea${rTasks.length !== 1 ? 's' : ''}</div>
+        </div>
+        <div class="responsible-tasks">${miniTasks || '<div style="padding:12px;color:var(--text-muted);font-size:13px">Sin tareas activas</div>'}</div>
+      </div>`;
+  }).join('');
+}
+
+function renderCompletedView() {
+  const tbody = document.getElementById('table-completed');
+  tbody.innerHTML = completed.map(c => `
+    <tr>
+      <td><div class="check-icon">✓</div></td>
+      <td style="color:var(--text-muted);font-size:13px;font-weight:700">${c.id}</td>
+      <td style="font-weight:500">${c.title}</td>
+      <td><span class="project-badge ${c.project.toLowerCase().includes('de') ? 'de' : 'se'}">${c.project}</span></td>
+      <td style="color:var(--text-muted);font-size:13px">${c.date}</td>
+    </tr>`).join('');
+}
+
+function updateStats(filtered) {
+  document.getElementById('stat-total').textContent = filtered.length;
+  document.getElementById('stat-alta').textContent = filtered.filter(t => t.priority === 'alta').length;
+  document.getElementById('stat-media').textContent = filtered.filter(t => t.priority === 'media').length;
+  document.getElementById('stat-baja').textContent = filtered.filter(t => t.priority === 'baja').length;
+  document.getElementById('stat-completada').textContent = completed.length;
+}
+
+function applyFilters() {
+  let filtered = tasks.filter(t => {
+    const matchProject = filters.project === 'all' || t.project === filters.project;
+    const matchStatus = filters.status === 'all' || t.priority === filters.status;
+    const matchSearch = !filters.search ||
+      t.title.toLowerCase().includes(filters.search) ||
+      t.id.toLowerCase().includes(filters.search) ||
+      t.context.toLowerCase().includes(filters.search) ||
+      t.responsibles.some(r => r.name.toLowerCase().includes(filters.search));
+    return matchProject && matchStatus && matchSearch;
+  });
+
+  updateStats(filtered);
+  if (currentView === 'priority') renderPriorityView(filtered);
+}
+
+// ─── CONTROLS ───────────────────────────────────────────────────────────────
+
+function setFilter(type, value, btn) {
+  filters[type] = value;
+  // update button states within group
+  btn.closest('.filters').querySelectorAll(`.filter-btn`).forEach(b => {
+    if (b.onclick && b.onclick.toString().includes(`'${type}'`)) {
+      b.classList.remove('active', 'all', 'se');
+    }
+  });
+  btn.classList.add('active');
+  if (value === 'all') btn.classList.add('all');
+  if (value === 'SE') btn.classList.add('se');
+  applyFilters();
+}
+
+function filterSearch(val) {
+  filters.search = val.toLowerCase();
+  applyFilters();
+}
+
+function setView(view, btn) {
+  currentView = view;
+  document.querySelectorAll('.view-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  ['priority', 'responsible', 'completed'].forEach(v => {
+    document.getElementById(`view-${v}`).classList.toggle('hidden', v !== view);
+  });
+  if (view === 'responsible') renderResponsibleView();
+  if (view === 'completed') renderCompletedView();
+  if (view === 'priority') applyFilters();
+}
+
+// ─── INIT ───────────────────────────────────────────────────────────────────
+applyFilters();
+</script>
+</body>
+</html>
