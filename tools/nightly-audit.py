@@ -5,6 +5,7 @@ Sends results by email via Resend
 """
 
 import json
+import os
 import sys
 import urllib.request
 import urllib.parse
@@ -15,7 +16,7 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
 
 # ── Config ──────────────────────────────────────────────────────────────────────
 
-RESEND_API_KEY = "re_4sfaj7sx_D5DWujLdmQM7NQxRptfZXms1"
+RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "re_4sfaj7sx_D5DWujLdmQM7NQxRptfZXms1")
 EMAIL_TO       = "andres.belmonte87@gmail.com"
 EMAIL_FROM     = "onboarding@resend.dev"
 MAX_PRICE      = 5000.0

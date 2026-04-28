@@ -1,0 +1,25 @@
+name: Auditoría Diaria de Websites
+
+on:
+  schedule:
+    # 7:00 AM Madrid (CEST = UTC+2) → 05:00 UTC
+    - cron: "0 5 * * *"
+  workflow_dispatch: # permite correrlo manualmente desde GitHub
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run audit
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python tools/nightly-audit.py
