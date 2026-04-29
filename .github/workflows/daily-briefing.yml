@@ -1,0 +1,25 @@
+name: Briefing Diario — Trill Digital
+
+on:
+  schedule:
+    # 8:00 AM Madrid (CEST = UTC+2) → 06:00 UTC
+    - cron: "0 6 * * 1-5"
+  workflow_dispatch: # permite correrlo manualmente desde GitHub
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run briefing
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python tools/daily-briefing.py
