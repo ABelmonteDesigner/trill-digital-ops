@@ -182,7 +182,15 @@ def build_html(tasks, completed, date_str):
         + "<hr style='border:none;border-top:1px solid #e5e7eb;margin:24px 0;'>"
         + comp_html
         + "<hr style='border:none;border-top:1px solid #e5e7eb;margin:24px 0;'>"
-        "<p style='color:#6b7280;font-size:12px;'>Trill Digital Media — Briefing diario automatico</p>"
+        + (
+            "<h3 style='margin-top:0;'>📅 Reuniones de hoy</h3>"
+            "<div style='background:#eff6ff;border:1px solid #bfdbfe;border-radius:8px;padding:14px 16px;font-size:13px;color:#1e40af;'>"
+            "Revisá tu calendario de Teams para ver las reuniones agendadas para hoy."
+            "<br><a href='https://teams.microsoft.com/_#/calendarv2' style='color:#6366f1;font-weight:600;'>Abrir Teams Calendar →</a>"
+            "</div>"
+            "<hr style='border:none;border-top:1px solid #e5e7eb;margin:24px 0;'>"
+        )
+        + "<p style='color:#6b7280;font-size:12px;'>Trill Digital Media — Briefing diario automatico</p>"
         "</div>"
     )
 
