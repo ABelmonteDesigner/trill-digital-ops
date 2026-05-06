@@ -1,0 +1,2844 @@
+{
+  "date": "2026-04-30 13:31",
+  "total": 473,
+  "products": [
+    {
+      "handle": "oakley-13477-flip-flops",
+      "title": "13477 OPERATIVE SANDAL 2.0",
+      "brand": "OAKLEY",
+      "product_type": "FLIP FLOPS"
+    },
+    {
+      "handle": "oakley-457130-t-shirts",
+      "title": "457130 O BARK",
+      "brand": "OAKLEY",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "oakley-457132-t-shirts",
+      "title": "457132 O-BOLD ELLIPSE",
+      "brand": "OAKLEY",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "oakley-461798-sweatshirts",
+      "title": "461798 SI TAB HOODIE",
+      "brand": "OAKLEY",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "swarovski-5557808-vases",
+      "title": "5557808 GARDEN TALES",
+      "brand": "SWAROVSKI",
+      "product_type": "VASES"
+    },
+    {
+      "handle": "swarovski-5600517-necklaces",
+      "title": "5600517 CHROMA",
+      "brand": "SWAROVSKI",
+      "product_type": "NECKLACES"
+    },
+    {
+      "handle": "swarovski-5618308-earrings",
+      "title": "5618308 DEXTERA M5639098",
+      "brand": "SWAROVSKI",
+      "product_type": "EARRINGS"
+    },
+    {
+      "handle": "oakley-911444a-hats",
+      "title": "911444A SI CAP",
+      "brand": "OAKLEY",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "oakley-911545-hats",
+      "title": "911545 TINCAN CAP",
+      "brand": "OAKLEY",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "oakley-911608-hats",
+      "title": "911608 CHALTEN CAP",
+      "brand": "OAKLEY",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "oakley-911630-hats",
+      "title": "911630 SI COTTON CAP",
+      "brand": "OAKLEY",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "oakley-92060a-backpacks",
+      "title": "92060A KITCHEN SINK",
+      "brand": "OAKLEY",
+      "product_type": "BACKPACKS"
+    },
+    {
+      "handle": "oakley-99469-helmets",
+      "title": "99469 ARO5",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-99505-helmets",
+      "title": "99505 MOD1",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-99505a-helmets",
+      "title": "99505A MOD1 (A)",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-99505mp-helmets",
+      "title": "99505MP MOD1 MIPS",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-99505y-helmets",
+      "title": "99505Y MOD1 MIPS (Y)",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-99505y-mp-helmets",
+      "title": "99505Y-MP MOD1 MIPS (Y)",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-99505y-mp-6a1-helmets",
+      "title": "99505Y-MP-6A1",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "costa-a6s0001ac-cleaning-tools",
+      "title": "A6S0001AC COSTA HERMIT CLOTH",
+      "brand": "COSTA DEL MAR",
+      "product_type": "CLEANING TOOLS"
+    },
+    {
+      "handle": "costa-a6s0001ck-cleaning-tools",
+      "title": "A6S0001CK CLEANING KIT",
+      "brand": "COSTA DEL MAR",
+      "product_type": "CLEANING TOOLS"
+    },
+    {
+      "handle": "costa-a6s0001kt-eyewear-chains",
+      "title": "A6S0001KT A6S0001KT",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR CHAINS"
+    },
+    {
+      "handle": "costa-a6s0003ac-cleaning-tools",
+      "title": "A6S0003AC COSTA 5X7 RECYCLED CLOTH",
+      "brand": "COSTA DEL MAR",
+      "product_type": "CLEANING TOOLS"
+    },
+    {
+      "handle": "costa-del-mar-a6s0003kt-eyewear-chains",
+      "title": "A6S0003KT COSTA C LINE RETAINER",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR CHAINS"
+    },
+    {
+      "handle": "oo9250a-oakley",
+      "title": "ACTUATOR A RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9250-oakley",
+      "title": "ACTUATOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9430-oakley",
+      "title": "ACTUATOR SQ RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8046-oakley",
+      "title": "AIRDROP RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9108-costa-del-mar",
+      "title": "ALETA ROUND SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9053-costa-del-mar",
+      "title": "ANAA PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "mk2137u-michael-kors",
+      "title": "ANAHEIM SQUARE SUNGLASS",
+      "brand": "MICHAEL KORS",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9083-costa-del-mar",
+      "title": "ANTILLE SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oakley-aoo7046ls-goggles",
+      "title": "AOO7046LS AIRBRAKE MX PERSIMMON DUAL REP. LENS",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "rx3758v-ray-ban",
+      "title": "ARI SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3025-ray-ban",
+      "title": "AVIATOR LARGE METAL AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3026-ray-ban",
+      "title": "AVIATOR LARGE METAL II AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3925-ray-ban",
+      "title": "AVIATOR MAX AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3689-ray-ban",
+      "title": "AVIATOR METAL II AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ax1017-armani",
+      "title": "AX1017 RECTANGULAR OPTICAL",
+      "brand": "ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ax2012s-armani",
+      "title": "AX2012S AVIATOR SUNGLASS",
+      "brand": "ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ax4049sf-armani",
+      "title": "AX4049SF SQUARE SUNGLASS",
+      "brand": "ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9030-costa-del-mar",
+      "title": "BAFFIN RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3735-ray-ban",
+      "title": "BAIN BRIDGE PILLOW SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9071-costa-del-mar",
+      "title": "BALLAST RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "be2108-burberry",
+      "title": "BE2108 RECTANGULAR OPTICAL",
+      "brand": "BURBERRY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "be2172-burberry",
+      "title": "BE2172 RECTANGULAR OPTICAL",
+      "brand": "BURBERRY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "be4216-burberry",
+      "title": "BE4216 PHANTOS SUNGLASS",
+      "brand": "BURBERRY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2205-ray-ban",
+      "title": "BILL ONE IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9400-oakley",
+      "title": "BISPHAERA RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9078-costa-del-mar",
+      "title": "BLACKFIN PRO PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "mk2241u-michael-kors",
+      "title": "BOCA RATON CAT EYE SUNGLASS",
+      "brand": "MICHAEL KORS",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4147-ray-ban",
+      "title": "BOYFRIEND SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4547-ray-ban",
+      "title": "BOYFRIEND TWO SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9134-costa-del-mar",
+      "title": "BRINE II RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9017-costa-del-mar",
+      "title": "BRINE OVAL SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9497-oakley",
+      "title": "BRIZA SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9084-costa-del-mar",
+      "title": "CALETA SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oj9013-oakley",
+      "title": "CAPACITOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rbr0102s-ray-ban",
+      "title": "CARAVAN REVERSE SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3136-ray-ban",
+      "title": "CARAVAN SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb8313-ray-ban",
+      "title": "CARBON FIBRE AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb0947s-ray-ban",
+      "title": "CARLOS RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9147-oakley",
+      "title": "CASTEL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9024-costa-del-mar",
+      "title": "CAT CAY PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8187-oakley",
+      "title": "CEREBRAL RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9247-oakley",
+      "title": "CHAINLINK RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "be2073-burberry",
+      "title": "CLASSIC RECTANGULAR OPTICAL",
+      "brand": "BURBERRY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "be3074-burberry",
+      "title": "CLASSIC RECTANGULAR SUNGLASS",
+      "brand": "BURBERRY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9440-oakley",
+      "title": "CLIFDEN ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3716-ray-ban",
+      "title": "CLUBMASTER METAL SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx5154-ray-ban",
+      "title": "CLUBMASTER SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx3916v-ray-ban",
+      "title": "CLUBMASTER SQUARE RECTANGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3016-ray-ban",
+      "title": "CLUBMASTER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9109-costa-del-mar",
+      "title": "CORBINA PRO RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8080-oakley",
+      "title": "CROSSLINK ZERO  SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8054-oakley",
+      "title": "DEHAVEN RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "dg2242-dolce-gabbana",
+      "title": "DG2242 SQUARE SUNGLASS",
+      "brand": "DOLCE & GABBANA",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8062d-oakley",
+      "title": "DISSIPATE RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb0360s-ray-ban",
+      "title": "DRIFTER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9367-oakley",
+      "title": "DROP POINT RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea1041-emporio-armani",
+      "title": "EA1041 RECTANGULAR OPTICAL",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea1052-emporio-armani",
+      "title": "EA1052 RECTANGULAR OPTICAL",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea1124-emporio-armani",
+      "title": "EA1124 PILLOW OPTICAL",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea2144-emporio-armani",
+      "title": "EA2144 AVIATOR SUNGLASS",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea3069-emporio-armani",
+      "title": "EA3069 RECTANGULAR OPTICAL",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea3098-emporio-armani",
+      "title": "EA3098 RECTANGULAR OPTICAL",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea3218-emporio-armani",
+      "title": "EA3218 RECTANGULAR OPTICAL",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea3227-emporio-armani",
+      "title": "EA3227 PILLOW OPTICAL",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea4058-emporio-armani",
+      "title": "EA4058 RECTANGULAR SUNGLASS",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea4115-emporio-armani",
+      "title": "EA4115 RECTANGULAR OPTICAL",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea4163-emporio-armani",
+      "title": "EA4163 PILLOW SUNGLASS",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea4201-emporio-armani",
+      "title": "EA4201 PILLOW SUNGLASS",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea4208-emporio-armani",
+      "title": "EA4208 605187 56 PILLOW SUNGLASS",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ea4216u-emporio-armani",
+      "title": "EA4216U PILLOW SUNGLASS",
+      "brand": "EMPORIO ARMANI",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo4142-oakley",
+      "title": "EJECTOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8191-oakley",
+      "title": "ENIGMA MASS SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4171f-ray-ban",
+      "title": "ERIKA PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4171-ray-ban",
+      "title": "ERIKA PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9483-oakley",
+      "title": "EXCHANGE SUN RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9438-oakley",
+      "title": "EYEJACKET REDUX RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9079-costa-del-mar",
+      "title": "FANTAIL PRO RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9006-costa-del-mar",
+      "title": "FANTAIL RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "an4202-arnette",
+      "title": "FASTBALL RECTANGULAR SUNGLASS",
+      "brand": "ARNETTE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo4079-oakley",
+      "title": "FEEDBACK AVIATOR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9002-costa-del-mar",
+      "title": "FERG SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb8313m-ray-ban",
+      "title": "FERRARI AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9238-oakley",
+      "title": "FIVES SQUARED RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9271-oakley",
+      "title": "FLAK 2.0  RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9188-oakley",
+      "title": "FLAK 2.0 XL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9488-oakley",
+      "title": "FLAK 2.0 XXL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oakley-foa401404-shorts",
+      "title": "FOA401404 TAKE PRO SHORTS 3.0",
+      "brand": "OAKLEY",
+      "product_type": "SHORTS"
+    },
+    {
+      "handle": "oakley-foa401827-hybrid-shorts",
+      "title": "FOA401827 IN THE MOMENT SHORTS",
+      "brand": "OAKLEY",
+      "product_type": "HYBRID SHORTS"
+    },
+    {
+      "handle": "oakley-foa401840-board-shorts",
+      "title": "FOA401840 KANA 21 2.0",
+      "brand": "OAKLEY",
+      "product_type": "BOARD SHORTS"
+    },
+    {
+      "handle": "oakley-foa401926-pants",
+      "title": "FOA401926 OAKLEY PERF 5 UTILITY PANTS",
+      "brand": "OAKLEY",
+      "product_type": "PANTS"
+    },
+    {
+      "handle": "oakley-foa402167-t-shirts",
+      "title": "FOA402167 O BARK 2.0",
+      "brand": "OAKLEY",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "oakley-foa402207-hybrid-shorts",
+      "title": "FOA402207 CRUISER CARGO 21 RC HYBRID",
+      "brand": "OAKLEY",
+      "product_type": "HYBRID SHORTS"
+    },
+    {
+      "handle": "oakley-foa402208-hybrid-shorts",
+      "title": "FOA402208 BASELINE HYBRID 21 2.0",
+      "brand": "OAKLEY",
+      "product_type": "HYBRID SHORTS"
+    },
+    {
+      "handle": "oakley-foa402598-sweatshirts",
+      "title": "FOA402598 BARK FZ HOODIE 2.0",
+      "brand": "OAKLEY",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "oakley-foa402599-sweatshirts",
+      "title": "FOA402599 B1B PO HOODIE 2.0",
+      "brand": "OAKLEY",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "oakley-foa402827-t-shirts",
+      "title": "FOA402827 SI EAGLE TAB TEE",
+      "brand": "OAKLEY",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "oakley-foa403088-polo-shirts",
+      "title": "FOA403088 GRAVITY PRO",
+      "brand": "OAKLEY",
+      "product_type": "POLO SHIRTS"
+    },
+    {
+      "handle": "oakley-foa403426-sweatshirts",
+      "title": "FOA403426 MOUNTAIN FIRE SHERPA",
+      "brand": "OAKLEY",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "oakley-foa403459-pants",
+      "title": "FOA403459 TRANSITION PANTS",
+      "brand": "OAKLEY",
+      "product_type": "PANTS"
+    },
+    {
+      "handle": "oakley-foa404011-t-shirts",
+      "title": "FOA404011 MARK II TEE 2.0",
+      "brand": "OAKLEY",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "oakley-foa404138-t-shirts",
+      "title": "FOA404138 SI SPLATTER TEE",
+      "brand": "OAKLEY",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "oakley-foa404360-polo-shirts",
+      "title": "FOA404360 SAND PRINT",
+      "brand": "OAKLEY",
+      "product_type": "POLO SHIRTS"
+    },
+    {
+      "handle": "oakley-foa404363-polo-shirts",
+      "title": "FOA404363 MARBLE JAQUARD",
+      "brand": "OAKLEY",
+      "product_type": "POLO SHIRTS"
+    },
+    {
+      "handle": "oakley-foa404499-polo-shirts",
+      "title": "FOA404499 ICON TN PROTECT RC",
+      "brand": "OAKLEY",
+      "product_type": "POLO SHIRTS"
+    },
+    {
+      "handle": "oakley-foa404501-polo-shirts",
+      "title": "FOA404501 DIVISIONAL UV II",
+      "brand": "OAKLEY",
+      "product_type": "POLO SHIRTS"
+    },
+    {
+      "handle": "oakley-foa404843-pants",
+      "title": "FOA404843 RELAX JOGGER 2.0",
+      "brand": "OAKLEY",
+      "product_type": "PANTS"
+    },
+    {
+      "handle": "oakley-fof100257-flip-flops",
+      "title": "FOF100257 PIER ELLIPSE FLIP FLOP",
+      "brand": "OAKLEY",
+      "product_type": "FLIP FLOPS"
+    },
+    {
+      "handle": "oakley-fof100418-flip-flops",
+      "title": "FOF100418 O COIL SANDAL",
+      "brand": "OAKLEY",
+      "product_type": "FLIP FLOPS"
+    },
+    {
+      "handle": "oakley-fof100419-flip-flops",
+      "title": "FOF100419 BURKE FLIP FLOP",
+      "brand": "OAKLEY",
+      "product_type": "FLIP FLOPS"
+    },
+    {
+      "handle": "rb4105-ray-ban",
+      "title": "FOLDING WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oakley-fos900148-helmets",
+      "title": "FOS900148 ARO5",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos900642-helmets",
+      "title": "FOS900642 MOD7",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos900925-helmets",
+      "title": "FOS900925 DRT5 MAVEN",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos900928-helmets",
+      "title": "FOS900928 ARO3 ENDURANCE",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos901055-helmets",
+      "title": "FOS901055",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos901112-helmets",
+      "title": "FOS901112 ARO3 ENDURANCE I.C.E",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos901113-helmets",
+      "title": "FOS901113 ARO3 ALLROAD I.C.E",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos901114-helmets",
+      "title": "FOS901114 ARO5 RACE I.C.E",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos901116-helmets",
+      "title": "FOS901116 DRT5 MAVEN I.C.E",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos901117-helmets",
+      "title": "FOS901117 ARO3 ALLROAD",
+      "brand": "OAKLEY",
+      "product_type": "HELMETS"
+    },
+    {
+      "handle": "oakley-fos901202-backpacks",
+      "title": "FOS901202 THE FRESHMAN SKATE BACKPACK",
+      "brand": "OAKLEY",
+      "product_type": "BACKPACKS"
+    },
+    {
+      "handle": "oakley-fos901477-backpacks",
+      "title": "FOS901477 BATHROOM SINK RC BACKPACK",
+      "brand": "OAKLEY",
+      "product_type": "BACKPACKS"
+    },
+    {
+      "handle": "oakley-fos901479-backpacks",
+      "title": "FOS901479 ICON RC BACKPACK",
+      "brand": "OAKLEY",
+      "product_type": "BACKPACKS"
+    },
+    {
+      "handle": "costa-del-mar-fqa400023-t-shirts",
+      "title": "FQA400023 PRIDE",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-del-mar-fqa400034-t-shirts",
+      "title": "FQA400034 TECHNICAL CREW CATIONIC",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400034-t-shirts",
+      "title": "FQA400034 TECHNICAL CREW CATIONIC",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-del-mar-fqa400035-t-shirts",
+      "title": "FQA400035 TECHNICAL CREW",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400035-t-shirts",
+      "title": "FQA400035 TECHNICAL CREW",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400039-t-shirts",
+      "title": "FQA400039 TECHNICAL HOOD",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-del-mar-fqa400052-t-shirts",
+      "title": "FQA400052 FURY",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400604-t-shirts",
+      "title": "FQA400604 TECH MOSSY OAK COASTAL CREW",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400605-t-shirts",
+      "title": "FQA400605 FLAG SS CREW",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-del-mar-fqa400612-t-shirts",
+      "title": "FQA400612 MOSSY OAK COSTAL SS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400707-woven-shirts",
+      "title": "FQA400707 ANGLER TECH BUTTON DOWN",
+      "brand": "COSTA DEL MAR",
+      "product_type": "WOVEN SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400708-jackets",
+      "title": "FQA400708 STARBOARD LIGHTWEIGHT JACKET",
+      "brand": "COSTA DEL MAR",
+      "product_type": "JACKETS"
+    },
+    {
+      "handle": "costa-fqa400711-board-shorts",
+      "title": "FQA400711 TIDES BOARDSHORTS PRINTED",
+      "brand": "COSTA DEL MAR",
+      "product_type": "BOARD SHORTS"
+    },
+    {
+      "handle": "costa-fqa400712-board-shorts",
+      "title": "FQA400712 CRUISER BOARDSHORTS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "BOARD SHORTS"
+    },
+    {
+      "handle": "costa-del-mar-fqa400758-t-shirts",
+      "title": "FQA400758 TECHNICAL TOPOGRAPHIC",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400759-t-shirts",
+      "title": "FQA400759 HOOKED SS BLEND",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400767-sweatshirts",
+      "title": "FQA400767 TECH FLEECE HOODY",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "costa-fqa400768-sweatshirts",
+      "title": "FQA400768 HARBOR QUARTER ZIP FLEECE",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "costa-fqa400769-vests",
+      "title": "FQA400769 HARBOR FULL ZIP FLEECE VEST",
+      "brand": "COSTA DEL MAR",
+      "product_type": "VESTS"
+    },
+    {
+      "handle": "costa-fqa400772-woven-shirts",
+      "title": "FQA400772 ANGLER TECH BUTTON DOWN PLAID",
+      "brand": "COSTA DEL MAR",
+      "product_type": "WOVEN SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400773-board-shorts",
+      "title": "FQA400773 TIDES BOARDSHORTS WATER CAMO PR",
+      "brand": "COSTA DEL MAR",
+      "product_type": "BOARD SHORTS"
+    },
+    {
+      "handle": "costa-fqa400774-hybrid-shorts",
+      "title": "FQA400774 TACKLE HYBRID PANTS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "PANTS"
+    },
+    {
+      "handle": "costa-fqa400785-t-shirts",
+      "title": "FQA400785 LS TECH BANNER",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400893-t-shirts",
+      "title": "FQA400893 LS VOYAGER PERFORMANCE SHIRT",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400894-t-shirts",
+      "title": "FQA400894 VOYAGER HOODY",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-del-mar-fqa400897-t-shirts",
+      "title": "FQA400897 SS VOYAGER PERFORMANCE SHIRT",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400897-t-shirts",
+      "title": "FQA400897 SS VOYAGER PERFORMANCE SHIRT",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400909-t-shirts",
+      "title": "FQA400909 TECH MORGAN SS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqa400918-t-shirts",
+      "title": "FQA400918 TECH WILSON PRINT LS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-del-mar-fqa400955-sweatshirts",
+      "title": "FQA400955 CORE FLEECE HOODY",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "costa-fqa401154-sweatshirts",
+      "title": "FQA401154 SPECIES SHIELD HOODY",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "costa-fqa401155-sweatshirts",
+      "title": "FQA401155 PRADO HOODY",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "costa-fqa401157-sweatshirts",
+      "title": "FQA401157 PALM BEACH HOODY",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SWEATSHIRTS"
+    },
+    {
+      "handle": "costa-fqa500126-pants",
+      "title": "FQA500126 COASTAL PERFORMANCE LEGGINGS P",
+      "brand": "COSTA DEL MAR",
+      "product_type": "PANTS"
+    },
+    {
+      "handle": "costa-fqa500146-jackets",
+      "title": "FQA500146 BEACON FULL ZIP JACKET",
+      "brand": "COSTA DEL MAR",
+      "product_type": "JACKETS"
+    },
+    {
+      "handle": "costa-fqa500208-t-shirts",
+      "title": "FQA500208 SUN BLOCKS TECH F",
+      "brand": "COSTA DEL MAR",
+      "product_type": "T-SHIRTS"
+    },
+    {
+      "handle": "costa-fqs900026-hats",
+      "title": "FQS900026 TUNA TRUCKER",
+      "brand": "COSTA DEL MAR",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "costa-del-mar-fqs900027-hats",
+      "title": "FQS900027 TWILL TRUCKER PRIDE LOGO",
+      "brand": "COSTA DEL MAR",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "costa-del-mar-fqs900047-hats",
+      "title": "FQS900047 ORIGINAL PATCH BASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "costa-fqs900053-hats",
+      "title": "FQS900053 BOONIE HAT XL",
+      "brand": "COSTA DEL MAR",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "costa-fqs900080-masks",
+      "title": "FQS900080 C-MASK DIGI CAMO",
+      "brand": "COSTA DEL MAR",
+      "product_type": "MASKS"
+    },
+    {
+      "handle": "costa-fqs900081-masks",
+      "title": "FQS900081 C-MASK FAMILIA",
+      "brand": "COSTA DEL MAR",
+      "product_type": "MASKS"
+    },
+    {
+      "handle": "costa-fqs900083-masks",
+      "title": "FQS900083 C-MASK TOPO",
+      "brand": "COSTA DEL MAR",
+      "product_type": "MASKS"
+    },
+    {
+      "handle": "costa-fqs900084-masks",
+      "title": "FQS900084 C-MASK VINTAGE FISH",
+      "brand": "COSTA DEL MAR",
+      "product_type": "MASKS"
+    },
+    {
+      "handle": "costa-fqs900219-hats",
+      "title": "FQS900219 MEDALLION TRUCKER",
+      "brand": "COSTA DEL MAR",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "costa-del-mar-fqs900226-hats",
+      "title": "FQS900226 CORE PERFORMANCE TRUCKER",
+      "brand": "COSTA DEL MAR",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "costa-fqs900269-hats",
+      "title": "FQS900269 LIFEGUARD STRAW HAT FIESTA PRT",
+      "brand": "COSTA DEL MAR",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "costa-fqs900284-bags",
+      "title": "FQS900284 SEEKER SLING PACK",
+      "brand": "COSTA DEL MAR",
+      "product_type": "BACKPACKS"
+    },
+    {
+      "handle": "costa-fqs900315-hats",
+      "title": "FQS900315 INSIGNIA TRUCKER",
+      "brand": "COSTA DEL MAR",
+      "product_type": "HATS"
+    },
+    {
+      "handle": "rb8157-ray-ban",
+      "title": "FRANK SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9245-oakley",
+      "title": "FROGSKINS  RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9289-oakley",
+      "title": "FROGSKINS HYBRID ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9284-oakley",
+      "title": "FROGSKINS RANGE ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9013-oakley",
+      "title": "FROGSKINS SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oj9006-oakley",
+      "title": "FROGSKINS XS ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9096-oakley",
+      "title": "FUEL CELL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox3227-oakley",
+      "title": "FULLER RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9041-costa-del-mar",
+      "title": "GANNET PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9014-oakley",
+      "title": "GASCAN RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9449-oakley",
+      "title": "GIBSTON SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9470-oakley",
+      "title": "GIBSTON XL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9154-oakley",
+      "title": "HALF JACKET 2.0 XL IRREGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rw4013-ray-ban",
+      "title": "HEADLINER PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9231-oakley",
+      "title": "HELIOSTAT RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9285-oakley",
+      "title": "HELUX RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8032-oakley",
+      "title": "HEX JECTOR RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3548n-ray-ban",
+      "title": "HEXAGONAL IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9522-oakley",
+      "title": "HIGHLAND RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9384-oakley",
+      "title": "HOLBROOK MIX RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8156-oakley",
+      "title": "HOLBROOK RX SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9102-oakley",
+      "title": "HOLBROOK SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9417-oakley",
+      "title": "HOLBROOK XL SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9487-oakley",
+      "title": "HOLBROOK XXL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "an4182-arnette",
+      "title": "HOT SHOT RECTANGULAR SUNGLASS",
+      "brand": "ARNETTE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ow8002-oakley",
+      "title": "HSTN ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "an4331-arnette",
+      "title": "ILUM IRREGULAR SUNGLASS",
+      "brand": "ARNETTE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9514-oakley",
+      "title": "INSTAGATOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9082-costa-del-mar",
+      "title": "IRIE AVIATOR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3565-ray-ban",
+      "title": "JACK IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4101-ray-ban",
+      "title": "JACKIE OHH BUTTERFLY SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4098-ray-ban",
+      "title": "JACKIE OHH II BUTTERFLY SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9290-oakley",
+      "title": "JAWBREAKER RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx3694v-ray-ban",
+      "title": "JIM IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry9097v-ray-ban",
+      "title": "JUNIOR ELLIOT IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4165-ray-ban",
+      "title": "JUSTIN SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4395f-ray-ban",
+      "title": "KILIANE PILLOW SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9436-oakley",
+      "title": "LATCH BETA SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9265-oakley",
+      "title": "LATCH OVAL SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9404-oakley",
+      "title": "LATCH PANEL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9431-oakley",
+      "title": "LATERALIS RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9100-oakley",
+      "title": "LEFFINGWELL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "an4317-arnette",
+      "title": "LITTY RECTANGULAR SUNGLASS",
+      "brand": "ARNETTE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s4006-costa-del-mar",
+      "title": "LORETO AVIATOR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9126-costa-del-mar",
+      "title": "LOS ALIJOS RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "swarovski-m5117703-necklaces",
+      "title": "M5117703 UNA ANGELIC 5117703",
+      "brand": "SWAROVSKI",
+      "product_type": "NECKLACES"
+    },
+    {
+      "handle": "swarovski-m5563966-rings",
+      "title": "M5563966 MATRIX VITTORE 5572827",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5580530-watches",
+      "title": "M5580530 CRYSTALLINE DELIGHT 5642218",
+      "brand": "SWAROVSKI",
+      "product_type": "WATCHES"
+    },
+    {
+      "handle": "swarovski-m5607351-rings",
+      "title": "M5607351 LUCENT 5607361",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5610734-rings",
+      "title": "M5610734 MATRIX COCKTAIL 5610734",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5618306-earrings",
+      "title": "M5618306 DEXTERA 5636530",
+      "brand": "SWAROVSKI",
+      "product_type": "EARRINGS"
+    },
+    {
+      "handle": "swarovski-m5633950-earrings",
+      "title": "M5633950 LUCENT 5633955",
+      "brand": "SWAROVSKI",
+      "product_type": "EARRINGS"
+    },
+    {
+      "handle": "swarovski-m5640249-rings",
+      "title": "M5640249 CHROMA 5640251",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5640967-rings",
+      "title": "M5640967 CONSTELLA 5640963",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5642610-rings",
+      "title": "M5642610 UNA ANGELIC 5642607",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5642619-rings",
+      "title": "M5642619 STILLA COCKTAIL 5645254",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5642625-rings",
+      "title": "M5642625 UNA ANGELIC 5642626",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5642635-rings",
+      "title": "M5642635 STILLA COCKTAIL 5642638",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5644053-watches",
+      "title": "M5644053 ATTRACT 5644062",
+      "brand": "SWAROVSKI",
+      "product_type": "WATCHES"
+    },
+    {
+      "handle": "swarovski-m5644913-cases",
+      "title": "M5644913 HIGH COLLECTION 5644926",
+      "brand": "SWAROVSKI",
+      "product_type": "CASES"
+    },
+    {
+      "handle": "swarovski-m5648286-rings",
+      "title": "M5648286 MATRIX 5662102",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5649215-rings",
+      "title": "M5649215 STILLA 5649215",
+      "brand": "SWAROVSKI",
+      "product_type": "RINGS"
+    },
+    {
+      "handle": "swarovski-m5680852-cases",
+      "title": "M5680852 HIGH COLLECTION 5680862",
+      "brand": "SWAROVSKI",
+      "product_type": "CASES"
+    },
+    {
+      "handle": "swarovski-m5680853-cases",
+      "title": "M5680853 HIGH COLLECTION 5680863",
+      "brand": "SWAROVSKI",
+      "product_type": "CASES"
+    },
+    {
+      "handle": "oo9479-oakley",
+      "title": "MANORBURN SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve2163-versace",
+      "title": "MATTE BLACK RECTANGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4264-ray-ban",
+      "title": "MATTE BLACK SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9011-costa-del-mar",
+      "title": "MAYA PHANTOS SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9110-costa-del-mar",
+      "title": "MAYFLY ROUND SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb0840s-ray-ban",
+      "title": "MEGA WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox5153-oakley",
+      "title": "METAL PLATE TI SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2283-ray-ban",
+      "title": "MR BURBANK RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3625-ray-ban",
+      "title": "NEW AVIATOR AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3636-ray-ban",
+      "title": "NEW CARAVAN SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4416-ray-ban",
+      "title": "NEW CLUBMASTER IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3637-ray-ban",
+      "title": "NEW ROUND PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2132f-ray-ban",
+      "title": "NEW WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9018-oakley",
+      "title": "OJECTOR IRREGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8177-oakley",
+      "title": "OJECTOR RX SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oakley-oo7029-moto-orange-goggles",
+      "title": "OO7029 O-FRAME MX",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7030-jet-black-goggles",
+      "title": "OO7030 XS O-FRAME MX",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7046-toby-ice-signature-goggles",
+      "title": "OO7046 AIRBRAKE MX",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7046-moto-blue-goggles",
+      "title": "OO7046 AIRBRAKE MX",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7046-moto-red-goggles",
+      "title": "OO7046 AIRBRAKE MX",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7046-tuff-blocks-black-gunmetal-goggles",
+      "title": "OO7046 AIRBRAKE MX",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7046-tuff-blocks-gunmetal-black-goggles",
+      "title": "OO7046 AIRBRAKE MX",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7050-factory-pilot-black-goggles",
+      "title": "OO7050 FLIGHT DECK L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7050-matte-black-goggles",
+      "title": "OO7050 FLIGHT DECK L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7050-matte-white-goggles",
+      "title": "OO7050 FLIGHT DECK L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7064-factory-pilot-black-goggles",
+      "title": "OO7064 FLIGHT DECK M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7064-matte-black-goggles",
+      "title": "OO7064 FLIGHT DECK M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7064-matte-white-goggles",
+      "title": "OO7064 FLIGHT DECK M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7070-matte-black-goggles",
+      "title": "OO7070 LINE MINER L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7070-matte-white-goggles",
+      "title": "OO7070 LINE MINER L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7093-matte-black-goggles",
+      "title": "OO7093 LINE MINER M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7093-matte-white-goggles",
+      "title": "OO7093 LINE MINER M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7095-matte-black-goggles",
+      "title": "OO7095 LINE MINER S",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7095-matte-white-goggles",
+      "title": "OO7095 LINE MINER S",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7099-matte-black-goggles",
+      "title": "OO7099 FALL LINE L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7099-matte-white-goggles",
+      "title": "OO7099 FALL LINE L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7103-matte-black-goggles",
+      "title": "OO7103 FALL LINE M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7103-matte-white-goggles",
+      "title": "OO7103 FALL LINE M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7104-factory-pilot-black-goggles",
+      "title": "OO7104 FLIGHT TRACKER L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7104-matte-black-goggles",
+      "title": "OO7104 FLIGHT TRACKER L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7104-matte-white-goggles",
+      "title": "OO7104 FLIGHT TRACKER L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7105-matte-black-goggles",
+      "title": "OO7105 FLIGHT TRACKER M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7105-matte-white-goggles",
+      "title": "OO7105 FLIGHT TRACKER M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7110-factory-pilot-black-goggles",
+      "title": "OO7110 FLIGHT PATH L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7110-matte-black-goggles",
+      "title": "OO7110 FLIGHT PATH L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7110-matte-white-goggles",
+      "title": "OO7110 FLIGHT PATH L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7116-moto-orange-goggles",
+      "title": "OO7116 O FRAME 2.0 PRO XS MX",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7120-matte-white-goggles",
+      "title": "OO7120 TARGET LINE L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7120-poseidon-goggles",
+      "title": "OO7120 TARGET LINE L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7120-ultra-purple-goggles",
+      "title": "OO7120 TARGET LINE L",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7121-dark-brushed-goggles",
+      "title": "OO7121 TARGET LINE M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7121-matte-white-goggles",
+      "title": "OO7121 TARGET LINE M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7125-matte-white-goggles",
+      "title": "OO7125 O-FRAME 2.0 PRO M",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "oakley-oo7126-matte-white-goggles",
+      "title": "OO7126 O-FRAME 2.0 PRO S",
+      "brand": "OAKLEY",
+      "product_type": "GOGGLES"
+    },
+    {
+      "handle": "rb3030-ray-ban",
+      "title": "OUTDOORSMAN I AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3547-ray-ban",
+      "title": "OVAL OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9122-costa-del-mar",
+      "title": "PANGA II RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8196d-oakley",
+      "title": "PARACORD RX SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9506d-oakley",
+      "title": "PARACORD SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9086-costa-del-mar",
+      "title": "PARGO SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9049-costa-del-mar",
+      "title": "PAUNCH SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9520-oakley",
+      "title": "PERMIAN RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4426-ray-ban",
+      "title": "PHIL SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9439-oakley",
+      "title": "PITCHMAN R ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8050-oakley",
+      "title": "PITCHMAN RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9437-oakley",
+      "title": "PLANTARIS OVAL SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8164-oakley",
+      "title": "PORT BOW RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2027-ray-ban",
+      "title": "PREDATOR 2 RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9481d-oakley",
+      "title": "QNTM KATO RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9200-oakley",
+      "title": "QUARTER JACKET RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9208-oakley",
+      "title": "RADAR EV PATH RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2180-ray-ban",
+      "title": "RB2180 PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2203-ray-ban",
+      "title": "RB2203 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2204-ray-ban",
+      "title": "RB2204 PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2217m-ray-ban",
+      "title": "RB2217M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2218-ray-ban",
+      "title": "RB2218 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2221-ray-ban",
+      "title": "RB2221 OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2222-ray-ban",
+      "title": "RB2222 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2232-ray-ban",
+      "title": "RB2232 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3183-ray-ban",
+      "title": "RB3183 RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3449-ray-ban",
+      "title": "RB3449 AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3522-ray-ban",
+      "title": "RB3522 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3569-ray-ban",
+      "title": "RB3569 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3647n-ray-ban",
+      "title": "RB3647N ROUND SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3671ch-ray-ban",
+      "title": "RB3671CH PILLOW SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3675-ray-ban",
+      "title": "RB3675 AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3682-ray-ban",
+      "title": "RB3682 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3701-ray-ban",
+      "title": "RB3701 RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3703m-ray-ban",
+      "title": "RB3703M IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3715m-ray-ban",
+      "title": "RB3715M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3717-ray-ban",
+      "title": "RB3717 RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3719-ray-ban",
+      "title": "RB3719 OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3721-ray-ban",
+      "title": "RB3721 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3721ch-ray-ban",
+      "title": "RB3721CH SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3749-ray-ban",
+      "title": "RB3749 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3756-ray-ban",
+      "title": "RB3756 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3756ch-ray-ban",
+      "title": "RB3756CH SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3762m-ray-ban",
+      "title": "RB3762M PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3763m-ray-ban",
+      "title": "RB3763M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3765-ray-ban",
+      "title": "RB3765 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3767-ray-ban",
+      "title": "RB3767 OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3768-ray-ban",
+      "title": "RB3768 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3770-ray-ban",
+      "title": "RB3770 OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3809-ray-ban",
+      "title": "RB3809 PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3832-ray-ban",
+      "title": "RB3832 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3947-ray-ban",
+      "title": "RB3947 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4378-ray-ban",
+      "title": "RB4378 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4401d-ray-ban",
+      "title": "RB4401D SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4413m-ray-ban",
+      "title": "RB4413M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4420-ray-ban",
+      "title": "RB4420 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4457d-ray-ban",
+      "title": "RB4457D PILLOW SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb8165-ray-ban",
+      "title": "RB8165 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb8331m-ray-ban",
+      "title": "RB8331M AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb8336m-ray-ban",
+      "title": "RB8336M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rbr0505s-ray-ban",
+      "title": "RBR0505S PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9080-costa-del-mar",
+      "title": "REEFTON PRO RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9007-costa-del-mar",
+      "title": "REEFTON RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oj9010-oakley",
+      "title": "RESISTOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx3947v-ray-ban",
+      "title": "ROUND GAZE ROUND OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx3447v-ray-ban",
+      "title": "ROUND METAL ROUND OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3447n-ray-ban",
+      "title": "ROUND METAL ROUND SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3447-ray-ban",
+      "title": "ROUND METAL ROUND SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb8247-ray-ban",
+      "title": "ROUND PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rbr0103s-ray-ban",
+      "title": "ROUND REVERSE PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9484d-oakley",
+      "title": "RSLV RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx3767v-ray-ban",
+      "title": "RX3767V OVAL OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx3768v-ray-ban",
+      "title": "RX3768V IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx3775vm-ray-ban",
+      "title": "RX3775VM OVAL OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx3807vm-ray-ban",
+      "title": "RX3807VM SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx4451v-ray-ban",
+      "title": "RX4451V IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx5362-ray-ban",
+      "title": "RX5362 BUTTERFLY OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx5421-ray-ban",
+      "title": "RX5421 RECTANGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx5422-ray-ban",
+      "title": "RX5422 CAT EYE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx5443d-ray-ban",
+      "title": "RX5443D SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx6335-ray-ban",
+      "title": "RX6335 RECTANGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx6532-ray-ban",
+      "title": "RX6532 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx6533-ray-ban",
+      "title": "RX6533 PILLOW OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx6621m-ray-ban",
+      "title": "RX6621M SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx7056-ray-ban",
+      "title": "RX7056 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx7140-ray-ban",
+      "title": "RX7140 PHANTOS OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx7230-ray-ban",
+      "title": "RX7230 PILLOW OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx7255-ray-ban",
+      "title": "RX7255 OVAL OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx8436m-ray-ban",
+      "title": "RX8436M SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx8783d-ray-ban",
+      "title": "RX8783D SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx8908-ray-ban",
+      "title": "RX8908 RECTANGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry1060-ray-ban",
+      "title": "RY1060 IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry1536-ray-ban",
+      "title": "RY1536 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry1549-ray-ban",
+      "title": "RY1549 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry1554-ray-ban",
+      "title": "RY1554 PHANTOS OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry1555-ray-ban",
+      "title": "RY1555 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry1586-ray-ban",
+      "title": "RY1586 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry1591-ray-ban",
+      "title": "RY1591 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ry1631-ray-ban",
+      "title": "RY1631 PHANTOS OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9020-costa-del-mar",
+      "title": "SALTBREAK PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9114-costa-del-mar",
+      "title": "SEADRIFT SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9507d-oakley",
+      "title": "SHACKLE SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx7257-ray-ban",
+      "title": "SHILO OVAL OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb3138-ray-ban",
+      "title": "SHOOTER AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9253-oakley",
+      "title": "SI BALLISTIC DET CORD RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9288-oakley",
+      "title": "SIELO ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9480-oakley",
+      "title": "SIELO SQ RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s6008-costa-del-mar",
+      "title": "SKIMMER RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rw4014-ray-ban",
+      "title": "SKYLER CAT EYE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "an4185-arnette",
+      "title": "SLICKSTER RECTANGULAR SUNGLASS",
+      "brand": "ARNETTE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox3218-oakley",
+      "title": "SOCKET 5.5 RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9008-costa-del-mar",
+      "title": "SPEARO SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9474-oakley",
+      "title": "SPINDRIFT ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9416-oakley",
+      "title": "SPLIT SHOT RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo4129-oakley",
+      "title": "SPLIT TIME AVIATOR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rbr0104s-ray-ban",
+      "title": "SQUARE REVERSE SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb1971-ray-ban",
+      "title": "SQUARE SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo4075-oakley",
+      "title": "SQUARE WIRE RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2186-ray-ban",
+      "title": "STATE STREET SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9462-oakley",
+      "title": "SUTRO S RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo6013-oakley",
+      "title": "SUTRO TI RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9448-oakley",
+      "title": "SYLAS RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9113-costa-del-mar",
+      "title": "TAILFIN RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9286-oakley",
+      "title": "THURSO ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb8125m-ray-ban",
+      "title": "TITANIUM AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9009-costa-del-mar",
+      "title": "TUNA ALLEY RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9307-oakley",
+      "title": "TURBINE ROTOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9189-oakley",
+      "title": "TWOFACE SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ty6110-tory-burch",
+      "title": "TY6110 CAT EYE SUNGLASS",
+      "brand": "TORY BURCH",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ty7143u-tory-burch",
+      "title": "TY7143U SQUARE SUNGLASS",
+      "brand": "TORY BURCH",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ty7169u-tory-burch",
+      "title": "TY7169U RECTANGULAR SUNGLASS",
+      "brand": "TORY BURCH",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ty9071u-tory-burch",
+      "title": "TY9071U SQUARE SUNGLASS",
+      "brand": "TORY BURCH",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9191-oakley",
+      "title": "UNSTOPPABLE RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9236-oakley",
+      "title": "VALVE RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ow8001-oakley",
+      "title": "VANGUARD RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve1066-versace",
+      "title": "VE1066 RECTANGULAR OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve2279-versace",
+      "title": "VE2279 IRREGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve3353-versace",
+      "title": "VE3353 CAT EYE OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve4430u-versace",
+      "title": "VE4430U RECTANGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve4432u-versace",
+      "title": "VE4432U IRREGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve4450-versace",
+      "title": "VE4450 CAT EYE SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve4464-versace",
+      "title": "VE4464 SQUARE SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve4474u-versace",
+      "title": "VE4474U RECTANGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve4477u-versace",
+      "title": "VE4477U IRREGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ve4479u-versace",
+      "title": "VE4479U SQUARE SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo9501-oakley",
+      "title": "VELO KATO RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "vo4198s-vogue",
+      "title": "VO4198S IRREGULAR SUNGLASS",
+      "brand": "VOGUE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "vo5338s-vogue",
+      "title": "VO5338S PILLOW SUNGLASS",
+      "brand": "VOGUE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "vo5380s-vogue",
+      "title": "VO5380S PILLOW SUNGLASS",
+      "brand": "VOGUE",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "6s9004-costa-del-mar",
+      "title": "WATERWOMAN 2 SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rw4012-ray-ban",
+      "title": "WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4340-ray-ban",
+      "title": "WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2140f-ray-ban",
+      "title": "WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb2140-ray-ban",
+      "title": "WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "ox8166-oakley",
+      "title": "WHEEL HOUSE SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb8097-ray-ban",
+      "title": "WILLIAM TITANIUM SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "oo4145-oakley",
+      "title": "WIRE TAP 2.0 RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rx7330-ray-ban",
+      "title": "ZENA IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    },
+    {
+      "handle": "rb4430-ray-ban",
+      "title": "ZENA IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "EYEWEAR"
+    }
+  ]
+}

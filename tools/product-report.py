@@ -1,5 +1,8 @@
 import requests
 import sys
+import json
+import os
+from datetime import datetime
 from collections import defaultdict, Counter
 
 if sys.stdout.encoding != "utf-8":
@@ -26,6 +29,8 @@ SE_APPAREL_TYPES = {
     "BOARD SHORTS", "SHORTS", "HYBRID SHORTS", "PANTS", "WOVEN SHIRTS",
     "JACKETS", "VESTS",
 }
+
+SNAPSHOTS_DIR = os.path.join(os.path.dirname(__file__), "snapshots")
 
 
 def extract_brand(product: dict, known_brands: set) -> str:
@@ -69,11 +74,95 @@ def classify_shades_eyewear(product: dict) -> str:
     return "unknown"
 
 
+# ─── Snapshot helpers ────────────────────────────────────────────────────────
+
+def snapshot_path(client_name: str) -> str:
+    slug = client_name.lower().replace(" ", "-")
+    return os.path.join(SNAPSHOTS_DIR, f"{slug}-latest.json")
+
+
+def load_snapshot(client_name: str) -> dict | None:
+    path = snapshot_path(client_name)
+    if not os.path.exists(path):
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_snapshot(client_name: str, products: list, known_brands: set):
+    snapshot = {
+        "date": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "total": len(products),
+        "products": [
+            {
+                "handle":       p.get("handle", ""),
+                "title":        p.get("title", ""),
+                "brand":        extract_brand(p, known_brands),
+                "product_type": p.get("product_type", "").strip().upper(),
+            }
+            for p in products
+        ],
+    }
+    os.makedirs(SNAPSHOTS_DIR, exist_ok=True)
+    with open(snapshot_path(client_name), "w", encoding="utf-8") as f:
+        json.dump(snapshot, f, ensure_ascii=False, indent=2)
+
+
+def print_diff(client_name: str, prev: dict, curr_products: list, known_brands: set):
+    prev_map = {p["handle"]: p for p in prev["products"]}
+    curr_map = {
+        p.get("handle", ""): {
+            "handle":       p.get("handle", ""),
+            "title":        p.get("title", ""),
+            "brand":        extract_brand(p, known_brands),
+            "product_type": p.get("product_type", "").strip().upper(),
+        }
+        for p in curr_products
+    }
+
+    removed = [prev_map[h] for h in prev_map if h not in curr_map]
+    added   = [curr_map[h] for h in curr_map if h not in prev_map]
+
+    if not removed and not added:
+        print(f"  Sin cambios desde {prev['date']}  ✓")
+        return
+
+    prev_date = prev["date"]
+
+    if removed:
+        print(f"\n  ❌  ELIMINADOS desde {prev_date}  ({len(removed)} productos)")
+        print(f"  {'#':<4} {'MARCA':<20} {'TIPO':<14} TÍTULO")
+        print(f"  {'-'*80}")
+        for i, p in enumerate(sorted(removed, key=lambda x: x["brand"]), 1):
+            title = p["title"][:50]
+            print(f"  {i:<4} {p['brand']:<20} {p['product_type']:<14} {title}")
+
+    if added:
+        print(f"\n  ✅  AGREGADOS desde {prev_date}  ({len(added)} productos)")
+        print(f"  {'#':<4} {'MARCA':<20} {'TIPO':<14} TÍTULO")
+        print(f"  {'-'*80}")
+        for i, p in enumerate(sorted(added, key=lambda x: x["brand"]), 1):
+            title = p["title"][:50]
+            print(f"  {i:<4} {p['brand']:<20} {p['product_type']:<14} {title}")
+
+
+# ─── Report printers ─────────────────────────────────────────────────────────
+
 def print_designer_eyes(client_name, products):
     known_brands = set(
         p["vendor"].upper() for p in products
         if p.get("vendor", "") not in STORE_VENDORS
     )
+
+    # Diff vs previous snapshot
+    prev = load_snapshot(client_name)
+    if prev:
+        print_diff(client_name, prev, products, known_brands)
+    else:
+        print(f"  (Primer snapshot guardado — el próximo reporte mostrará cambios)")
+
+    # Save new snapshot
+    save_snapshot(client_name, products, known_brands)
 
     brand_total   = Counter()
     brand_sun     = Counter()
@@ -117,6 +206,16 @@ def print_shades_eyeconic(client_name, products):
         p["vendor"].upper() for p in products
         if p.get("vendor", "") not in STORE_VENDORS
     )
+
+    # Diff vs previous snapshot
+    prev = load_snapshot(client_name)
+    if prev:
+        print_diff(client_name, prev, products, known_brands)
+    else:
+        print(f"  (Primer snapshot guardado — el próximo reporte mostrará cambios)")
+
+    # Save new snapshot
+    save_snapshot(client_name, products, known_brands)
 
     brand_total   = Counter()
     brand_sun     = Counter()

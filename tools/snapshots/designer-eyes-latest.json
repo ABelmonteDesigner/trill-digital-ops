@@ -1,0 +1,5328 @@
+{
+  "date": "2026-04-30 13:31",
+  "total": 887,
+  "products": [
+    {
+      "handle": "cd40144f-dior-woman",
+      "title": "30MONTAIGNE S11F SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40185i-dior-woman",
+      "title": "30MONTAIGNE S13I BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40128u-dior-woman",
+      "title": "30MONTAIGNE S9U OVAL SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ac-05-movitra",
+      "title": "AC05 OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-01us-prada",
+      "title": "ACTIVE PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9250-oakley",
+      "title": "ACTUATOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9430-oakley",
+      "title": "ACTUATOR SQ RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bpx-172-balmain",
+      "title": "ADMIRAL PHANTOS OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ox8046-oakley",
+      "title": "AIRDROP RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "6s9108-costa-del-mar",
+      "title": "ALETA ROUND SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "alias-01-d-movitra",
+      "title": "ALIAS OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "alias-03-d-movitra",
+      "title": "ALIAS OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ov5508u-oliver-peoples",
+      "title": "ALLENBY SQUARE OPTICAL",
+      "brand": "OLIVER PEOPLES",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "am-01-movitra",
+      "title": "AM01G OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "am-02-movitra",
+      "title": "AM02F OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "am-03-movitra",
+      "title": "AM03D SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "6s9053-costa-del-mar",
+      "title": "ANAA PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40128i-loewe",
+      "title": "ANAGRAM BUTTERFLY SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40115u-loewe",
+      "title": "ANAGRAM CAT EYE SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40036i-loewe",
+      "title": "ANAGRAM CAT EYE SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw50096i-loewe",
+      "title": "ANAGRAM GEOMETRIC OPTICAL",
+      "brand": "LOEWE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "lw40129u-loewe",
+      "title": "ANAGRAM GEOMETRIC SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40160i-loewe",
+      "title": "ANAGRAM GEOMETRIC SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40131i-loewe",
+      "title": "ANAGRAM MASK SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40175u-loewe",
+      "title": "ANAGRAM OVAL SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40132i-loewe",
+      "title": "ANAGRAM PILOT SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40176u-loewe",
+      "title": "ANAGRAM RECTANGULAR SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "apex-09-movitra",
+      "title": "APEX 09 SQUARE SUNGLASS",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "apex-01-d-movitra",
+      "title": "APEX OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "apex-04-d-movitra",
+      "title": "APEX OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "apex-01-movitra",
+      "title": "APEX SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "apex-04-movitra",
+      "title": "APEX SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "apex-06-movitra",
+      "title": "APEX SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "apex-07-movitra",
+      "title": "APEX SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "akx-104-akoni",
+      "title": "ARA RECTANGULAR OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx3758v-ray-ban",
+      "title": "ARI SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb3025-ray-ban",
+      "title": "AVIATOR LARGE METAL AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3925-ray-ban",
+      "title": "AVIATOR MAX AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3689-ray-ban",
+      "title": "AVIATOR METAL II AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-176-balmain",
+      "title": "B - ARMY II SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aps-176-balmain",
+      "title": "B - ARMY II SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-175-balmain",
+      "title": "B - ARMY III RECTANGULAR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-164-balmain",
+      "title": "B - ARMY RECTANGULAR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-156-balmain",
+      "title": "B - EYE CAT EYE SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-100-balmain",
+      "title": "B - I SQUARE SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-116-balmain",
+      "title": "B - III RECTANGULAR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-151-balmain",
+      "title": "B - MUSE CAT EYE SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aps-179-balmain",
+      "title": "B - SPIRIT SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40122u-fendi",
+      "title": "BAGUETTE AVIATOR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40011u-fendi",
+      "title": "BAGUETTE CAT EYE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40147i-fendi",
+      "title": "BAGUETTE ROUND SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3735-ray-ban",
+      "title": "BAIN BRIDGE PILLOW SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9071-costa-del-mar",
+      "title": "BALLAST RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve4361-versace",
+      "title": "BIGGIE IRREGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2205-ray-ban",
+      "title": "BILL ONE IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9400-oakley",
+      "title": "BISPHAERA RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9078-costa-del-mar",
+      "title": "BLACKFIN PRO PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-514-akoni",
+      "title": "BLAZE RECTANGULAR SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th50008u-tag-heuer",
+      "title": "BOLIDE GEOMETRIC OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th40011i-tag-heuer",
+      "title": "BOLIDE MASK SUNGLASS",
+      "brand": "TAG HEUER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th40012u-tag-heuer",
+      "title": "BOLIDE PILOT SUNGLASS",
+      "brand": "TAG HEUER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th50009u-tag-heuer",
+      "title": "BOLIDE RECTANGULAR OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th50017i-tag-heuer",
+      "title": "BOLIDE RECTANGULAR OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb4147-ray-ban",
+      "title": "BOYFRIEND SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4547-ray-ban",
+      "title": "BOYFRIEND TWO SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bpx-149-balmain",
+      "title": "BRIGADE - VI RECTANGULAR OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "bpx-186b-balmain",
+      "title": "BRIGADE - VII AVIATOR OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "bps-186a-balmain",
+      "title": "BRIGADE - VII AVIATOR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9134-costa-del-mar",
+      "title": "BRINE II RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9017-costa-del-mar",
+      "title": "BRINE OVAL SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9497-oakley",
+      "title": "BRIZA SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oy8026-oakley",
+      "title": "BUNT RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ox5086-oakley",
+      "title": "BURROW SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9280-oakley",
+      "title": "BXTR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oj9013-oakley",
+      "title": "CAPACITOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rbr0102s-ray-ban",
+      "title": "CARAVAN REVERSE SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3136-ray-ban",
+      "title": "CARAVAN SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb8313-ray-ban",
+      "title": "CARBON FIBRE AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb0947s-ray-ban",
+      "title": "CARLOS RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9147-oakley",
+      "title": "CASTEL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9024-costa-del-mar",
+      "title": "CAT CAY PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm40134u-l-dior-man",
+      "title": "CD DIAMOND M1U MASK SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm40162u-dior-man",
+      "title": "CD DIAMOND R5U PHANTOS SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm40072i-dior-man",
+      "title": "CD DIAMOND S1I GEOMETRIC SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm40139i-dior-man",
+      "title": "CD DIAMOND S8I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm40146u-dior-man",
+      "title": "CD DIAMOND S9U GEOMETRIC SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm50112u-dior-man",
+      "title": "CD DIAMONDO R5U PHANTOS OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "dm50074u-dior-man",
+      "title": "CD DIAMONDO S5U SQUARE OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "dm50094i-dior-man",
+      "title": "CD DIAMONDO S8I RECTANGULAR OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "dm50107u-dior-man",
+      "title": "CD DIAMONDO S9U RECTANGULAR OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "dm40145u-dior-man",
+      "title": "CD ICON R1U GEOMETRIC SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm40131i-dior-man",
+      "title": "CD ICON S3I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40142u-dior-woman",
+      "title": "CDIOR B1U BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40141u-dior-woman",
+      "title": "CDIOR B2U BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40175i-dior-woman",
+      "title": "CDIOR B4I BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40149i-dior-woman",
+      "title": "CDIOR S1I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40154i-dior-woman",
+      "title": "CDIOR S2I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40203u-dior-woman",
+      "title": "CDIOR S4U RECTANGULAR SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40230i-dior-woman",
+      "title": "CDIOR S5I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd50130i-dior-woman",
+      "title": "CDIORO S4I CAT EYE OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40286i-celine",
+      "title": "CELINE 3 DOTS CAT EYE SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl4004in-celine",
+      "title": "CELINE 3 DOTS CAT EYE SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl50154u-celine",
+      "title": "CELINE 3 DOTS GEOMETRIC OPTICAL",
+      "brand": "CELINE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40187i-celine",
+      "title": "CELINE 3 DOTS GEOMETRIC SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl50175i-celine",
+      "title": "CELINE 3 DOTS HD CAT EYE OPTICAL",
+      "brand": "CELINE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40297u-celine",
+      "title": "CELINE 3 DOTS HD GEOMETRIC SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40337u-celine",
+      "title": "CELINE 3 DOTS HD RECTANGULAR SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl50163i-celine",
+      "title": "CELINE 3 DOTS RECTANGULAR OPTICAL",
+      "brand": "CELINE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40287u-celine",
+      "title": "CELINE 3 DOTS RECTANGULAR SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8187-oakley",
+      "title": "CEREBRAL RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "bpx-158-balmain",
+      "title": "CHEVALIER OVAL OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9440-oakley",
+      "title": "CLIFDEN ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "climax-04-movitra",
+      "title": "CLIMAX SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "climax-05-movitra",
+      "title": "CLIMAX SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "climax-07-movitra",
+      "title": "CLIMAX SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "rx5154-ray-ban",
+      "title": "CLUBMASTER SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb3016-ray-ban",
+      "title": "CLUBMASTER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-100-akoni",
+      "title": "COLUMBA WELLINGTON SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9248-oakley",
+      "title": "CORRIDOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9415-oakley",
+      "title": "CORRIDOR SQ RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oy8002-oakley",
+      "title": "CROSSLINK XS SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ox8080-oakley",
+      "title": "CROSSLINK ZERO (A) SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0005rs-cartier",
+      "title": "CT0005RS RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0007rs-cartier",
+      "title": "CT0007RS RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0009rs-cartier",
+      "title": "CT0009RS RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0011rs-cartier",
+      "title": "CT0011RS RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0015s-cartier",
+      "title": "CT0015S ROUND SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0034s-cartier",
+      "title": "CT0034S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0037rs-cartier",
+      "title": "CT0037RS RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0040rs-cartier",
+      "title": "CT0040RS RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0052o-cartier",
+      "title": "CT0052O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0056o-cartier",
+      "title": "CT0056O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0058o-cartier",
+      "title": "CT0058O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0061o-cartier",
+      "title": "CT0061O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0092o-cartier",
+      "title": "CT0092O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0132s-cartier",
+      "title": "CT0132S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0165s-cartier",
+      "title": "CT0165S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0271s-cartier",
+      "title": "CT0271S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0287o-cartier",
+      "title": "CT0287O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0290o-cartier",
+      "title": "CT0290O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0291o-cartier",
+      "title": "CT0291O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0296s-cartier",
+      "title": "CT0296S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0304s-cartier",
+      "title": "CT0304S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0326s-cartier",
+      "title": "CT0326S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0330s-cartier",
+      "title": "CT0330S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0344o-cartier",
+      "title": "CT0344O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0359s-cartier",
+      "title": "CT0359S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0362s-cartier",
+      "title": "CT0362S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0373o-cartier",
+      "title": "CT0373O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0386s-cartier",
+      "title": "CT0386S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0394s-cartier",
+      "title": "CT0394S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0399s-cartier",
+      "title": "CT0399S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0416o-cartier",
+      "title": "CT0416O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0424s-cartier",
+      "title": "CT0424S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0425s-cartier",
+      "title": "CT0425S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0429s-cartier",
+      "title": "CT0429S GEOMETRIC SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0430s-cartier",
+      "title": "CT0430S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0431s-cartier",
+      "title": "CT0431S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0433s-cartier",
+      "title": "CT0433S GEOMETRIC SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0434s-cartier",
+      "title": "CT0434S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0437s-cartier",
+      "title": "CT0437S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0439s-cartier",
+      "title": "CT0439S GEOMETRIC SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0448o-cartier",
+      "title": "CT0448O CAT EYE OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0450o-cartier",
+      "title": "CT0450O CAT EYE OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0455oj-cartier",
+      "title": "CT0455OJ ROUND OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0461s-cartier",
+      "title": "CT0461S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0462s-cartier",
+      "title": "CT0462S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0464o-cartier",
+      "title": "CT0464O ROUND OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0464s-cartier",
+      "title": "CT0464S ROUND SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0465s-cartier",
+      "title": "CT0465S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0466s-cartier",
+      "title": "CT0466S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0467s-cartier",
+      "title": "CT0467S GEOMETRIC SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0471s-cartier",
+      "title": "CT0471S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0472s-cartier",
+      "title": "CT0472S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0474s-cartier",
+      "title": "CT0474S GEOMETRIC SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0476s-cartier",
+      "title": "CT0476S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0486o-cartier",
+      "title": "CT0486O CAT EYE OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0487o-cartier",
+      "title": "CT0487O CAT EYE OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0488o-cartier",
+      "title": "CT0488O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0493o-cartier",
+      "title": "CT0493O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0494o-cartier",
+      "title": "CT0494O GEOMETRIC OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0495s-cartier",
+      "title": "CT0495S AVIATOR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0496o-cartier",
+      "title": "CT0496O ROUND OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0496s-cartier",
+      "title": "CT0496S ROUND SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0502s-cartier",
+      "title": "CT0502S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0504s-cartier",
+      "title": "CT0504S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0505s-cartier",
+      "title": "CT0505S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0509sa-cartier",
+      "title": "CT0509SA RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0511o-cartier",
+      "title": "CT0511O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0513o-cartier",
+      "title": "CT0513O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0514o-cartier",
+      "title": "CT0514O ROUND OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0522o-cartier",
+      "title": "CT0522O CAT EYE OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0534s-cartier",
+      "title": "CT0534S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0535s-cartier",
+      "title": "CT0535S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0537o-cartier",
+      "title": "CT0537O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0537s-cartier",
+      "title": "CT0537S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0538s-cartier",
+      "title": "CT0538S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0543s-cartier",
+      "title": "CT0543S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0544s-cartier",
+      "title": "CT0544S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0550s-cartier",
+      "title": "CT0550S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0551s-cartier",
+      "title": "CT0551S ROUND SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0558o-cartier",
+      "title": "CT0558O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0560o-cartier",
+      "title": "CT0560O ROUND OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0563o-cartier",
+      "title": "CT0563O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0563s-cartier",
+      "title": "CT0563S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0564o-cartier",
+      "title": "CT0564O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0565o-cartier",
+      "title": "CT0565O CAT EYE OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0566s-cartier",
+      "title": "CT0566S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0571s-cartier",
+      "title": "CT0571S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0577s-cartier",
+      "title": "CT0577S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0578o-cartier",
+      "title": "CT0578O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0579s-cartier",
+      "title": "CT0579S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0580s-cartier",
+      "title": "CT0580S GEOMETRIC SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0581o-cartier",
+      "title": "CT0581O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0582s-cartier",
+      "title": "CT0582S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0583o-cartier",
+      "title": "CT0583O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0584o-cartier",
+      "title": "CT0584O ROUND OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0586o-cartier",
+      "title": "CT0586O RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0588s-cartier",
+      "title": "CT0588S ROUND SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0590o-cartier",
+      "title": "CT0590O CAT EYE OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0592s-cartier",
+      "title": "CT0592S ROUND SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0594o-cartier",
+      "title": "CT0594O ROUND OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0595s-cartier",
+      "title": "CT0595S CAT EYE SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0598s-cartier",
+      "title": "CT0598S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0599o-cartier",
+      "title": "CT0599O GEOMETRIC OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0601o-cartier",
+      "title": "CT0601O GEOMETRIC OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0604s-cartier",
+      "title": "CT0604S RECTANGULAR SUNGLASS",
+      "brand": "CARTIER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ct0607oj-cartier",
+      "title": "CT0607OJ RECTANGULAR OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ct0639o-cartier",
+      "title": "CT0639O CAT EYE OPTICAL",
+      "brand": "CARTIER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "lw40088u-loewe",
+      "title": "CURVY CAT EYE SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ov5510su-oliver-peoples",
+      "title": "DAVRI RECTANGULAR SUNGLASS",
+      "brand": "OLIVER PEOPLES",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8054-oakley",
+      "title": "DEHAVEN RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "dm40153i-dior-man",
+      "title": "DIOR OBLIQUE S1I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm40143u-dior-man",
+      "title": "DIORBLACKSUIT A3U PILOT SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm40136i-dior-man",
+      "title": "DIORBLACKSUIT S13I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm50039i-dior-man",
+      "title": "DIORBLACKSUITO R4I OVAL OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cd40189u-dior-woman",
+      "title": "DIORCANNAGE B1U OVAL SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40209u-dior-woman",
+      "title": "DIORCANNAGE R1U OVAL SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd50132u-dior-woman",
+      "title": "DIORCANNAGEO B3U OVAL OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cd40152u-dior-woman",
+      "title": "DIORCLUB M7U MASK SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40173i-dior-woman",
+      "title": "DIORÉSILLE S1I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40157i-dior-woman",
+      "title": "DIORPACIFIC B2I BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40163u-dior-woman",
+      "title": "DIORPACIFIC B3U BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40204i-dior-woman",
+      "title": "DIORPACIFIC R1I OVAL SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40098u-dior-woman",
+      "title": "DIORPACIFIC S1U GEOMETRIC SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40113u-dior-woman",
+      "title": "DIORPACIFIC S2U GEOMETRIC SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40205i-dior-woman",
+      "title": "DIORPACIFIC S3I RECTANGULAR SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd50111i-dior-woman",
+      "title": "DIORPRISMEO R1I ROUND OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cd40170u-dior-woman",
+      "title": "DIORSIGNATURE B8U BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40131f-dior-woman",
+      "title": "DIORSIGNATURE S10F BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40176i-dior-woman",
+      "title": "DIORSIGNATURE S12I RECTANGULAR SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40208i-dior-woman",
+      "title": "DIORSIGNATURE S14I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40207i-dior-woman",
+      "title": "DIORSIGNATURE S15I CAT EYE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40233u-dior-woman",
+      "title": "DIORTRIBALES B2U CAT EYE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8062d-oakley",
+      "title": "DISSIPATE RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cd40243i-dior-woman",
+      "title": "DMOON B2I BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb0360s-ray-ban",
+      "title": "DRIFTER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th50041i-tag-heuer",
+      "title": "DRIVE ACETATE RECTANGULAR OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9367-oakley",
+      "title": "DROP POINT RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-513-akoni",
+      "title": "ECLIPSE SQUARE SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9235-oakley",
+      "title": "ENCODER STRIKE VENTED RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8191-oakley",
+      "title": "ENIGMA MASS SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb4171-ray-ban",
+      "title": "ERIKA PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "error-404-movitra",
+      "title": "ERROR 404 SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "bps-157-balmain",
+      "title": "ESPION WRAP SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th50048u-tag-heuer",
+      "title": "ESSENTIAL WIRE RIMLESS GEOMETRIC OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th50047u-tag-heuer",
+      "title": "ESSENTIAL WIRE RIMLESS RECTANGULAR OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9483-oakley",
+      "title": "EXCHANGE SUN RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9079-costa-del-mar",
+      "title": "FANTAIL PRO RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo4079-oakley",
+      "title": "FEEDBACK AVIATOR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50092i-fendi",
+      "title": "FENDI FIRST CAT EYE OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40194i-fendi",
+      "title": "FENDI FIRST CAT EYE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe5116us-fendi",
+      "title": "FENDI FIRST CRYSTAL GEOMETRIC OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe4082us-fendi",
+      "title": "FENDI FIRST CRYSTAL GEOMETRIC SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe4075us-fendi",
+      "title": "FENDI FIRST CRYSTAL OVAL SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe4121us-fendi",
+      "title": "FENDI FIRST CRYSTAL RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe4172us-fendi",
+      "title": "FENDI FIRST CRYSTAL RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40150i-fendi",
+      "title": "FENDI FIRST GEOMETRIC SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50101i-fendi",
+      "title": "FENDI FIRST ROUND OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40098i-fendi",
+      "title": "FENDI FIRST SQUARE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40125i-fendi",
+      "title": "FENDI ROMA OVAL SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40100i-fendi",
+      "title": "FENDI ROMA RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40174i-fendi",
+      "title": "FENDI SELLERIA RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40176u-fendi",
+      "title": "FENDI SIGNATURE CAT EYE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40169i-fendi",
+      "title": "FENDI SIGNATURE RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40115u-fendi",
+      "title": "FENDI SKY AVIATOR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40180u-fendi",
+      "title": "FENDI SKY OVAL SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40060u-fendi",
+      "title": "FENDI SKY ROUND SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40129u-fendi",
+      "title": "FENDI SKY SHIELD SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40168u-fendi",
+      "title": "FENDI SPORT RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50070i-fendi",
+      "title": "FENDI SQUARE OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe50088u-fendi",
+      "title": "FENDI TRAVEL AVIATOR OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40004u-fendi",
+      "title": "FENDI TRAVEL OVAL SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50002i-fendi",
+      "title": "FENDI WAY GEOMETRIC OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40136i-fendi",
+      "title": "FENDI WAY SQUARE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40202i-fendi",
+      "title": "FENDIGRAPHY CAT EYE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50062i-fendi",
+      "title": "FENDIGRAPHY GEOMETRIC OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40073u-fendi",
+      "title": "FENDIGRAPHY GEOMETRIC SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40067u-fendi",
+      "title": "FENDIGRAPHY GEOMETRIC SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40065i-fendi",
+      "title": "FENDIGRAPHY GEOMETRIC SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50140u-fendi",
+      "title": "FENDIGRAPHY OVAL OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe50143i-fendi",
+      "title": "FENDIGRAPHY RECTANGULAR OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe50065i-fendi",
+      "title": "FENDIGRAPHY RECTANGULAR OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40201i-fendi",
+      "title": "FENDIGRAPHY SQUARE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40195u-fendi",
+      "title": "FENDINESS RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50134i-fendi",
+      "title": "FF DIAMONDS CAT EYE OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40149i-fendi",
+      "title": "FF DIAMONDS CAT EYE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40184i-fendi",
+      "title": "FF DIAMONDS CAT EYE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40148u-fendi",
+      "title": "FF DIAMONDS GEOMETRIC SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50099i-fendi",
+      "title": "FF DIAMONDS OVAL OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40140u-fendi",
+      "title": "FF DIAMONDS OVAL SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40178u-fendi",
+      "title": "FF DIAMONDS OVAL SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50135i-fendi",
+      "title": "FF DIAMONDS SQUARE OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "fe40167i-fendi",
+      "title": "FF SQUARED GEOMETRIC SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50123i-fendi",
+      "title": "FF SQUARED RECTANGULAR OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oy8007-oakley",
+      "title": "FIELD DAY SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9238-oakley",
+      "title": "FIVES SQUARED RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9271-oakley",
+      "title": "FLAK 2.0 (A) RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9188-oakley",
+      "title": "FLAK 2.0 XL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9488-oakley",
+      "title": "FLAK 2.0 XXL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th40006u-tag-heuer",
+      "title": "FLEX AVIATOR SUNGLASS",
+      "brand": "TAG HEUER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th50006u-tag-heuer",
+      "title": "FLEX GEOMETRIC OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th50005u-tag-heuer",
+      "title": "FLEX GEOMETRIC OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th40008u-tag-heuer",
+      "title": "FLEX MASK SUNGLASS",
+      "brand": "TAG HEUER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th50004u-tag-heuer",
+      "title": "FLEX RECTANGULAR OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th40005u-tag-heuer",
+      "title": "FLEX RECTANGULAR SUNGLASS",
+      "brand": "TAG HEUER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4105-ray-ban",
+      "title": "FOLDING WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40206i-fendi",
+      "title": "FOREVER FENDI CAT EYE SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40204i-fendi",
+      "title": "FOREVER FENDI RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bpx-148-balmain",
+      "title": "FORMEE SQUARE OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb8157-ray-ban",
+      "title": "FRANK SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9284-oakley",
+      "title": "FROGSKINS RANGE ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9013-oakley",
+      "title": "FROGSKINS SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9096-oakley",
+      "title": "FUEL CELL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "akx-403-akoni",
+      "title": "GALILEO SQUARE OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9014-oakley",
+      "title": "GASCAN RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-109-balmain",
+      "title": "GENDARME OVERSIZED SQUARED SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg0036sn-gucci",
+      "title": "GG0036SN RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg0165on-gucci",
+      "title": "GG0165ON CAT EYE OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg0522s-gucci",
+      "title": "GG0522S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg0896s-gucci",
+      "title": "GG0896S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg0998s-gucci",
+      "title": "GG0998S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1022s-gucci",
+      "title": "GG1022S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1188s-gucci",
+      "title": "GG1188S AVIATOR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1325s-gucci",
+      "title": "GG1325S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1401s-gucci",
+      "title": "GG1401S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1407s-gucci",
+      "title": "GG1407S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1425s-gucci",
+      "title": "GG1425S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1460s-gucci",
+      "title": "GG1460S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1476ok-gucci",
+      "title": "GG1476OK RECTANGULAR OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1518o-gucci",
+      "title": "GG1518O ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1528s-gucci",
+      "title": "GG1528S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1530o-gucci",
+      "title": "GG1530O CAT EYE OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1535s-gucci",
+      "title": "GG1535S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1547s-gucci",
+      "title": "GG1547S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1566s-gucci",
+      "title": "GG1566S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1603s-gucci",
+      "title": "GG1603S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1703o-gucci",
+      "title": "GG1703O RECTANGULAR OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1774s-gucci",
+      "title": "GG1774S GEOMETRIC SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1802s-gucci",
+      "title": "GG1802S ROUND SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1806o-gucci",
+      "title": "GG1806O RECTANGULAR OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1808s-gucci",
+      "title": "GG1808S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1824s-gucci",
+      "title": "GG1824S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1827s-gucci",
+      "title": "GG1827S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1832o-gucci",
+      "title": "GG1832O CAT EYE OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1834s-gucci",
+      "title": "GG1834S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1839s-gucci",
+      "title": "GG1839S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1842s-gucci",
+      "title": "GG1842S BUTTERFLY SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1843s-gucci",
+      "title": "GG1843S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1853s-gucci",
+      "title": "GG1853S GEOMETRIC SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1854s-gucci",
+      "title": "GG1854S ROUND SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1861s-gucci",
+      "title": "GG1861S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1869s-gucci",
+      "title": "GG1869S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1879s-gucci",
+      "title": "GG1879S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1888s-gucci",
+      "title": "GG1888S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1889o-gucci",
+      "title": "GG1889O RECTANGULAR OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1889s-gucci",
+      "title": "GG1889S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1920s-gucci",
+      "title": "GG1920S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1922s-gucci",
+      "title": "GG1922S ROUND SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1932o-gucci",
+      "title": "GG1932O CAT EYE OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1933o-gucci",
+      "title": "GG1933O RECTANGULAR OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1938o-gucci",
+      "title": "GG1938O RECTANGULAR OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1942s-gucci",
+      "title": "GG1942S ROUND SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1945o-gucci",
+      "title": "GG1945O CAT EYE OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1950s-gucci",
+      "title": "GG1950S SHIELD SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1955sa-gucci",
+      "title": "GG1955SA RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1958s-gucci",
+      "title": "GG1958S SHIELD SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1960s-gucci",
+      "title": "GG1960S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1962s-gucci",
+      "title": "GG1962S AVIATOR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1967s-gucci",
+      "title": "GG1967S BUTTERFLY SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1968s-gucci",
+      "title": "GG1968S CAT EYE SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1972oa-gucci",
+      "title": "GG1972OA ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1979sk-gucci",
+      "title": "GG1979SK RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1980s-gucci",
+      "title": "GG1980S ROUND SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1985s-gucci",
+      "title": "GG1985S ROUND SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1986sa-gucci",
+      "title": "GG1986SA RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1987o-gucci",
+      "title": "GG1987O RECTANGULAR OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1989o-gucci",
+      "title": "GG1989O CAT EYE OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1990o-gucci",
+      "title": "GG1990O RECTANGULAR OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1991s-gucci",
+      "title": "GG1991S RECTANGULAR SUNGLASS",
+      "brand": "GUCCI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "gg1992o-gucci",
+      "title": "GG1992O ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1993ok-gucci",
+      "title": "GG1993OK ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg1998o-gucci",
+      "title": "GG1998O ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg2000oj-gucci",
+      "title": "GG2000OJ ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg2001oj-gucci",
+      "title": "GG2001OJ ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg2005oa-gucci",
+      "title": "GG2005OA ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "gg2093o-gucci",
+      "title": "GG2093O ROUND OPTICAL",
+      "brand": "GUCCI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "akx-529-akoni",
+      "title": "GIANO SQUARE OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9449-oakley",
+      "title": "GIBSTON SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9470-oakley",
+      "title": "GIBSTON XL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9154-oakley",
+      "title": "HALF JACKET 2.0 XL IRREGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rw4013-ray-ban",
+      "title": "HEADLINER PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ks-521-akoni",
+      "title": "HELIOS AVIATOR SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-521-akoni",
+      "title": "HELIOS AVIATOR SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9231-oakley",
+      "title": "HELIOSTAT RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9285-oakley",
+      "title": "HELUX RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8032-oakley",
+      "title": "HEX JECTOR RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb3548n-ray-ban",
+      "title": "HEXAGONAL IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9384-oakley",
+      "title": "HOLBROOK MIX RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8156-oakley",
+      "title": "HOLBROOK RX SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9102-oakley",
+      "title": "HOLBROOK SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9417-oakley",
+      "title": "HOLBROOK XL SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9487-oakley",
+      "title": "HOLBROOK XXL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ow8002-oakley",
+      "title": "HSTN ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "akx-412-akoni",
+      "title": "HUBBLE SQUARE OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9229-oakley",
+      "title": "HYDRA IRREGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "inceptus-02-movitra",
+      "title": "INCEPTUS GLASSES",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "inceptus-03-movitra",
+      "title": "INCEPTUS OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "inceptus-05-movitra",
+      "title": "INCEPTUS OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "inceptus-04-movitra",
+      "title": "INCEPTUS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "akx-512-akoni",
+      "title": "INFINITY PHANTOS OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9514-oakley",
+      "title": "INSTAGATOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9082-costa-del-mar",
+      "title": "IRIE AVIATOR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "akx-404-akoni",
+      "title": "IRIS CAT EYE OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx6465-ray-ban",
+      "title": "JACK IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb3565-ray-ban",
+      "title": "JACK IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4101-ray-ban",
+      "title": "JACKIE OHH BUTTERFLY SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4098-ray-ban",
+      "title": "JACKIE OHH II BUTTERFLY SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9290-oakley",
+      "title": "JAWBREAKER RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rx3694v-ray-ban",
+      "title": "JIM IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rj9506s-ray-ban",
+      "title": "JUNIOR AVIATOR AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ry9097v-ray-ban",
+      "title": "JUNIOR ELLIOT IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rj9565s-ray-ban",
+      "title": "JUNIOR JACK IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rj9052s-ray-ban",
+      "title": "JUNIOR NEW WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "akx-308-akoni",
+      "title": "JUNO - ONE HEXAGONAL OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "aks-307-akoni",
+      "title": "JUNO - TWO HEXAGONAL SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4165-ray-ban",
+      "title": "JUSTIN SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "sl214-saint-laurent",
+      "title": "KATE CAT EYE SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4395f-ray-ban",
+      "title": "KILIANE PILLOW SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40147i-dior-woman",
+      "title": "LADY 95.22 B1I BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd50098i-dior-woman",
+      "title": "LADY 95.22O B1I CAT EYE OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9436-oakley",
+      "title": "LATCH BETA SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9265-oakley",
+      "title": "LATCH OVAL SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9404-oakley",
+      "title": "LATCH PANEL RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9431-oakley",
+      "title": "LATERALIS RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rx7256-ray-ban",
+      "title": "LAURENE SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "bps-181-balmain",
+      "title": "LEGEND AVIATOR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aps-181-balmain",
+      "title": "LEGEND AVIATOR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe50087i-fendi",
+      "title": "LETTERING GEOMETRIC OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th40002u-tag-heuer",
+      "title": "LINE AVIATOR SUNGLASS",
+      "brand": "TAG HEUER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th50003i-tag-heuer",
+      "title": "LINE GEOMETRIC OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "6s4006-costa-del-mar",
+      "title": "LORETO AVIATOR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9126-costa-del-mar",
+      "title": "LOS ALIJOS RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "akx-419-akoni",
+      "title": "LUNA CAT EYE OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9343-oakley",
+      "title": "M2 FRAME XL IRREGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bpx-161-balmain",
+      "title": "MAJESTIC RECTANGULAR OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oy8005-oakley",
+      "title": "MARSHAL XS RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40328u-celine",
+      "title": "MAXI TRIOMPHE BUTTERFLY SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40282u-celine",
+      "title": "MAXI TRIOMPHE RECTANGULAR SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9110-costa-del-mar",
+      "title": "MAYFLY ROUND SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve2163-versace",
+      "title": "MB RECTANGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mb0251o-montblanc",
+      "title": "MB0251O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0253s-montblanc",
+      "title": "MB0253S RECTANGULAR SUNGLASS",
+      "brand": "MONTBLANC",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mb0274o-montblanc",
+      "title": "MB0274O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0279o-montblanc",
+      "title": "MB0279O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0355o-montblanc",
+      "title": "MB0355O ROUND OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0361o-montblanc",
+      "title": "MB0361O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0381s-montblanc",
+      "title": "MB0381S RECTANGULAR SUNGLASS",
+      "brand": "MONTBLANC",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mb0396on-montblanc",
+      "title": "MB0396ON RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0403o-montblanc",
+      "title": "MB0403O ROUND OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0421s-montblanc",
+      "title": "MB0421S RECTANGULAR SUNGLASS",
+      "brand": "MONTBLANC",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mb0422o-montblanc",
+      "title": "MB0422O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0426o-montblanc",
+      "title": "MB0426O ROUND OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0428s-montblanc",
+      "title": "MB0428S ROUND SUNGLASS",
+      "brand": "MONTBLANC",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mb0430o-montblanc",
+      "title": "MB0430O ROUND OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0431o-montblanc",
+      "title": "MB0431O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0433o-montblanc",
+      "title": "MB0433O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0434o-montblanc",
+      "title": "MB0434O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mb0435s-montblanc",
+      "title": "MB0435S ROUND SUNGLASS",
+      "brand": "MONTBLANC",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mb0441s-montblanc",
+      "title": "MB0441S RECTANGULAR SUNGLASS",
+      "brand": "MONTBLANC",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mb0452o-montblanc",
+      "title": "MB0452O RECTANGULAR OPTICAL",
+      "brand": "MONTBLANC",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb0840s-ray-ban",
+      "title": "MEGA WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox5153-oakley",
+      "title": "METAL PLATE TI SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40281u-celine",
+      "title": "METAL TRIOMPHE AVIATOR SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40293u-celine",
+      "title": "METAL TRIOMPHE CAT EYE SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40254u-celine",
+      "title": "METAL TRIOMPHE GEOMETRIC SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl50140u-celine",
+      "title": "METAL TRIOMPHE OVAL OPTICAL",
+      "brand": "CELINE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40235u-celine",
+      "title": "METAL TRIOMPHE OVAL SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8153-oakley",
+      "title": "METALINK RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cd50135i-dior-woman",
+      "title": "MINICD O R8I OVAL OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cd40182i-dior-woman",
+      "title": "MISSDIOR S1I SQUARE SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "momentum-05-d-movitra",
+      "title": "MOMENTUM OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "momentum-04-movitra",
+      "title": "MOMENTUM SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "momentum-05-movitra",
+      "title": "MOMENTUM SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "cl40278u-celine",
+      "title": "MONOCHROMS CAT EYE SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bpx-153-balmain",
+      "title": "MONSIEUR OVAL OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb2283-ray-ban",
+      "title": "MR BURBANK RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-01vv-miu-miu",
+      "title": "MU 01VV PHANTOS OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-01wv-miu-miu",
+      "title": "MU 01WV PHANTOS OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-01xv-miu-miu",
+      "title": "MU 01XV OVAL OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-01ys-miu-miu",
+      "title": "MU 01YS SQUARE SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-01yv-miu-miu",
+      "title": "MU 01YV RECTANGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-02wv-miu-miu",
+      "title": "MU 02WV ROUND OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-02xv-miu-miu",
+      "title": "MU 02XV RECTANGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-02yv-miu-miu",
+      "title": "MU 02YV RECTANGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-03wv-miu-miu",
+      "title": "MU 03WV IRREGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-03xv-miu-miu",
+      "title": "MU 03XV IRREGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-04uv-miu-miu",
+      "title": "MU 04UV SQUARE OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-04wv-miu-miu",
+      "title": "MU 04WV RECTANGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-04yv-miu-miu",
+      "title": "MU 04YV IRREGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-04zs-miu-miu",
+      "title": "MU 04ZS OVAL SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-06xv-miu-miu",
+      "title": "MU 06XV SQUARE OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-06zs-miu-miu",
+      "title": "MU 06ZS OVAL SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-07xv-miu-miu",
+      "title": "MU 07XV RECTANGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-07zs-miu-miu",
+      "title": "MU 07ZS IRREGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-09ws-miu-miu",
+      "title": "MU 09WS RECTANGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-10ys-miu-miu",
+      "title": "MU 10YS IRREGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-11ws-miu-miu",
+      "title": "MU 11WS OVAL SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-11zs-miu-miu",
+      "title": "MU 11ZS RECTANGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-50wv-miu-miu",
+      "title": "MU 50WV SQUARE OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-50yv-miu-miu",
+      "title": "MU 50YV RECTANGULAR OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-51xv-miu-miu",
+      "title": "MU 51XV SQUARE OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-52ys-miu-miu",
+      "title": "MU 52YS OVAL SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-53wv-miu-miu",
+      "title": "MU 53WV OVAL OPTICAL",
+      "brand": "MIU MIU",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "mu-54ys-miu-miu",
+      "title": "MU 54YS IRREGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-54zs-miu-miu",
+      "title": "MU 54ZS OVAL SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-56zs-miu-miu",
+      "title": "MU 56ZS IRREGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-a03s-miu-miu",
+      "title": "MU A03S IRREGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-a04s-miu-miu",
+      "title": "MU A04S BUTTERFLY SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-a05s-miu-miu",
+      "title": "MU A05S RECTANGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-a06s-miu-miu",
+      "title": "MU A06S IRREGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-a51s-miu-miu",
+      "title": "MU A51S RECTANGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-a52s-miu-miu",
+      "title": "MU A52S IRREGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-a53s-miu-miu",
+      "title": "MU A53S RECTANGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-a54s-miu-miu",
+      "title": "MU A54S OVAL SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-b04s-miu-miu",
+      "title": "MU B04S IRREGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-b05s-miu-miu",
+      "title": "MU B05S SQUARE SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "mu-b50s-miu-miu",
+      "title": "MU B50S RECTANGULAR SUNGLASS",
+      "brand": "MIU MIU",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ks-527-akoni",
+      "title": "NEBULA CAT EYE SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-527-akoni",
+      "title": "NEBULA CAT EYE SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "dm50102f-dior-man",
+      "title": "NEODIORO R4F ROUND OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "dm50101f-dior-man",
+      "title": "NEODIORO S6F SQUARE OPTICAL",
+      "brand": "DIOR",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb3625-ray-ban",
+      "title": "NEW AVIATOR AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3636-ray-ban",
+      "title": "NEW CARAVAN SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4416-ray-ban",
+      "title": "NEW CLUBMASTER IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3637-ray-ban",
+      "title": "NEW ROUND PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2132-ray-ban",
+      "title": "NEW WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "akx-515-akoni",
+      "title": "NEWTON SQUARE OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "nexus-01-d-movitra",
+      "title": "NEXUS OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "nexus-02-d-movitra",
+      "title": "NEXUS OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "nexus-03-d-movitra",
+      "title": "NEXUS OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "nexus-01-movitra",
+      "title": "NEXUS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "nexus-02-movitra",
+      "title": "NEXUS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "nexus-03-movitra",
+      "title": "NEXUS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "nexus-04-movitra",
+      "title": "NEXUS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "fe50104f-fendi",
+      "title": "O'LOCK GEOMETRIC OPTICAL",
+      "brand": "FENDI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9018-oakley",
+      "title": "OJECTOR IRREGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-159-balmain",
+      "title": "OLIVIER ROUND SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3547-ray-ban",
+      "title": "OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9122-costa-del-mar",
+      "title": "PANGA II RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8196d-oakley",
+      "title": "PARACORD RX SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "6s9049-costa-del-mar",
+      "title": "PAUNCH SQUARE SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "kx-528-akoni",
+      "title": "PEGASUS SQUARE OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "akx-528-akoni",
+      "title": "PEGASUS SQUARE OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9520-oakley",
+      "title": "PERMIAN RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "phaenomenon-03-movitra",
+      "title": "PHAENOMENON SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "rb4426-ray-ban",
+      "title": "PHIL SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-517-akoni",
+      "title": "PHOENIX AVIATOR SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-187-balmain",
+      "title": "PIERRE - II RECTANGULAR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aps-187-balmain",
+      "title": "PIERRE - II RECTANGULAR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bpx-150-balmain",
+      "title": "PIERRE RECTANGULAR OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ox8050-oakley",
+      "title": "PITCHMAN RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ox8164-oakley",
+      "title": "PORT BOW RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-02zv-prada",
+      "title": "PR 02ZV BUTTERFLY OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-06ys-prada",
+      "title": "PR 06YS RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-07ys-prada",
+      "title": "PR 07YS IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-08ys-prada",
+      "title": "PR 08YS BUTTERFLY SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-09zs-prada",
+      "title": "PR 09ZS RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-09zv-prada",
+      "title": "PR 09ZV SQUARE OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-10zs-prada",
+      "title": "PR 10ZS PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-13zs-prada",
+      "title": "PR 13ZS CAT EYE SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-14ws-prada",
+      "title": "PR 14WS CAT EYE SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-14ys-prada",
+      "title": "PR 14YS RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-15ws-prada",
+      "title": "PR 15WS RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-15yv-prada",
+      "title": "PR 15YV RECTANGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-16ws-prada",
+      "title": "PR 16WS IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-17ws-prada",
+      "title": "PR 17WS RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-19ws-prada",
+      "title": "PR 19WS RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-23ys-prada",
+      "title": "PR 23YS SQUARE SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-24zs-prada",
+      "title": "PR 24ZS SQUARE SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-26zs-prada",
+      "title": "PR 26ZS IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-65zs-prada",
+      "title": "PR 65ZS OVAL SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a01s-prada",
+      "title": "PR A01S PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a02s-prada",
+      "title": "PR A02S BUTTERFLY SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a05s-prada",
+      "title": "PR A05S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a06s-prada",
+      "title": "PR A06S PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a09s-prada",
+      "title": "PR A09S BUTTERFLY SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a12s-prada",
+      "title": "PR A12S IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a14v-prada",
+      "title": "PR A14V PHANTOS OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-a17s-prada",
+      "title": "PR A17S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a19s-prada",
+      "title": "PR A19S BUTTERFLY SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a51s-prada",
+      "title": "PR A51S IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-a60s-prada",
+      "title": "PR A60S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b01v-prada",
+      "title": "PR B01V BUTTERFLY OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b02v-prada",
+      "title": "PR B02V RECTANGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b04v-prada",
+      "title": "PR B04V CAT EYE OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b05s-prada",
+      "title": "PR B05S PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b05v-prada",
+      "title": "PR B05V RECTANGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b06s-prada",
+      "title": "PR B06S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b06vd-prada",
+      "title": "PR B06VD PHANTOS OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b09s-prada",
+      "title": "PR B09S BUTTERFLY SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b09v-prada",
+      "title": "PR B09V RECTANGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b10v-prada",
+      "title": "PR B10V RECTANGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b11s-prada",
+      "title": "PR B11S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b11v-prada",
+      "title": "PR B11V PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b12s-prada",
+      "title": "PR B12S PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b16s-prada",
+      "title": "PR B16S OVAL SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b17s-prada",
+      "title": "PR B17S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b18s-prada",
+      "title": "PR B18S SQUARE SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b19s-prada",
+      "title": "PR B19S PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b23s-prada",
+      "title": "PR B23S SQUARE SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b50v-prada",
+      "title": "PR B50V AVIATOR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b53s-prada",
+      "title": "PR B53S OVAL SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b53v-prada",
+      "title": "PR B53V ROUND OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b54s-prada",
+      "title": "PR B54S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b55s-prada",
+      "title": "PR B55S IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-b55v-prada",
+      "title": "PR B55V OVAL OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-b56s-prada",
+      "title": "PR B56S OVAL SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-c01v-prada",
+      "title": "PR C01V PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-c02s-prada",
+      "title": "PR C02S IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-c02v-prada",
+      "title": "PR C02V PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-c03s-prada",
+      "title": "PR C03S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-c04v-prada",
+      "title": "PR C04V PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-c05s-prada",
+      "title": "PR C05S IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-c06s-prada",
+      "title": "PR C06S PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-c07s-prada",
+      "title": "PR C07S BUTTERFLY SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-c07v-prada",
+      "title": "PR C07V IRREGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-c08v-prada",
+      "title": "PR C08V IRREGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-c10v-prada",
+      "title": "PR C10V BUTTERFLY OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "pr-c50s-prada",
+      "title": "PR C50S SQUARE SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "pr-c52s-prada",
+      "title": "PR C52S BUTTERFLY SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2027-ray-ban",
+      "title": "PREDATOR 2 RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-01qv-prada",
+      "title": "PS 01QV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-01sv-prada",
+      "title": "PS 01SV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-01zs-prada",
+      "title": "PS 01ZS PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-02sv-prada",
+      "title": "PS 02SV RECTANGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-03sv-prada",
+      "title": "PS 03SV RECTANGULAR OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-04rv-prada",
+      "title": "PS 04RV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-04ws-prada",
+      "title": "PS 04WS PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-05ys-prada",
+      "title": "PS 05YS RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-05zs-prada",
+      "title": "PS 05ZS RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-06pv-prada",
+      "title": "PS 06PV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-06rv-prada",
+      "title": "PS 06RV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-07rv-prada",
+      "title": "PS 07RV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-08rv-prada",
+      "title": "PS 08RV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-09ov-prada",
+      "title": "PS 09OV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-50sv-prada",
+      "title": "PS 50SV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-50zs-prada",
+      "title": "PS 50ZS PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-51sv-prada",
+      "title": "PS 51SV PILLOW OPTICAL",
+      "brand": "PRADA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ps-53zs-prada",
+      "title": "PS 53ZS AVIATOR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-54zs-prada",
+      "title": "PS 54ZS OVAL SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-a06s-prada",
+      "title": "PS A06S AVIATOR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-a07s-prada",
+      "title": "PS A07S RECTANGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-a08s-prada",
+      "title": "PS A08S PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-a52s-prada",
+      "title": "PS A52S AVIATOR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-b02s-prada",
+      "title": "PS B02S IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-b08s-prada",
+      "title": "PS B08S PILLOW SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-b51s-prada",
+      "title": "PS B51S AVIATOR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ps-b52s-prada",
+      "title": "PS B52S IRREGULAR SUNGLASS",
+      "brand": "PRADA",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9481d-oakley",
+      "title": "QNTM KATO RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9208-oakley",
+      "title": "RADAR EV PATH RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9495d-oakley",
+      "title": "RADAR PLATE RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8178-oakley",
+      "title": "RAFTER RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb2180-ray-ban",
+      "title": "RB2180 PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2203-ray-ban",
+      "title": "RB2203 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2204-ray-ban",
+      "title": "RB2204 PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2217m-ray-ban",
+      "title": "RB2217M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2218-ray-ban",
+      "title": "RB2218 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2221-ray-ban",
+      "title": "RB2221 OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2222-ray-ban",
+      "title": "RB2222 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2232-ray-ban",
+      "title": "RB2232 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3449-ray-ban",
+      "title": "RB3449 AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3671ch-ray-ban",
+      "title": "RB3671CH PILLOW SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3675-ray-ban",
+      "title": "RB3675 AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3701-ray-ban",
+      "title": "RB3701 RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3703m-ray-ban",
+      "title": "RB3703M IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3715m-ray-ban",
+      "title": "RB3715M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3717-ray-ban",
+      "title": "RB3717 RECTANGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3719-ray-ban",
+      "title": "RB3719 OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3721-ray-ban",
+      "title": "RB3721 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3721ch-ray-ban",
+      "title": "RB3721CH SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3749-ray-ban",
+      "title": "RB3749 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3756-ray-ban",
+      "title": "RB3756 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3756ch-ray-ban",
+      "title": "RB3756CH SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3762m-ray-ban",
+      "title": "RB3762M PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3765-ray-ban",
+      "title": "RB3765 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3767-ray-ban",
+      "title": "RB3767 OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3770-ray-ban",
+      "title": "RB3770 OVAL SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3809-ray-ban",
+      "title": "RB3809 PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3832-ray-ban",
+      "title": "RB3832 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb3947-ray-ban",
+      "title": "RB3947 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4264-ray-ban",
+      "title": "RB4264 SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4401d-ray-ban",
+      "title": "RB4401D SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4413m-ray-ban",
+      "title": "RB4413M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb4457d-ray-ban",
+      "title": "RB4457D PILLOW SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb8165-ray-ban",
+      "title": "RB8165 IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb8331m-ray-ban",
+      "title": "RB8331M AVIATOR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb8336m-ray-ban",
+      "title": "RB8336M SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rbr0505s-ray-ban",
+      "title": "RBR0505S PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9080-costa-del-mar",
+      "title": "REEFTON PRO RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9007-costa-del-mar",
+      "title": "REEFTON RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ov5349s-oliver-peoples",
+      "title": "REMICK PHANTOS SUNGLASS",
+      "brand": "OLIVER PEOPLES",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oj9010-oakley",
+      "title": "RESISTOR RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40285u-celine",
+      "title": "RHINESTONE TRIOMPHE RECTANGULAR SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rj9077s-ray-ban",
+      "title": "RJ9077S SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rj9079s-ray-ban",
+      "title": "RJ9079S SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rj9084s-ray-ban",
+      "title": "RJ9084S SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rj9131s-ray-ban",
+      "title": "RJ9131S SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rj9132s-ray-ban",
+      "title": "RJ9132S IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rj9551s-ray-ban",
+      "title": "RJ9551S SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rj9552s-ray-ban",
+      "title": "RJ9552S PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rx3447v-ray-ban",
+      "title": "ROUND METAL ROUND OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb3447-ray-ban",
+      "title": "ROUND METAL ROUND SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oy8014-oakley",
+      "title": "ROUND OUT ROUND OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb8247-ray-ban",
+      "title": "ROUND PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rbr0103s-ray-ban",
+      "title": "ROUND REVERSE PHANTOS SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9484d-oakley",
+      "title": "RSLV RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rx3767v-ray-ban",
+      "title": "RX3767V OVAL OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx3768v-ray-ban",
+      "title": "RX3768V IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx3775vm-ray-ban",
+      "title": "RX3775VM OVAL OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx3807vm-ray-ban",
+      "title": "RX3807VM SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx4379vd-ray-ban",
+      "title": "RX4379VD SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx4451v-ray-ban",
+      "title": "RX4451V IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx5362-ray-ban",
+      "title": "RX5362 BUTTERFLY OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx5406-ray-ban",
+      "title": "RX5406 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx5421-ray-ban",
+      "title": "RX5421 RECTANGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx5422-ray-ban",
+      "title": "RX5422 CAT EYE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx5441-ray-ban",
+      "title": "RX5441 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx5443d-ray-ban",
+      "title": "RX5443D SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx5510-ray-ban",
+      "title": "RX5510 CAT EYE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx5517m-ray-ban",
+      "title": "RX5517M SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx6532-ray-ban",
+      "title": "RX6532 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx6533-ray-ban",
+      "title": "RX6533 PILLOW OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx6534-ray-ban",
+      "title": "RX6534 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx6621m-ray-ban",
+      "title": "RX6621M SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx7140-ray-ban",
+      "title": "RX7140 PHANTOS OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx7230-ray-ban",
+      "title": "RX7230 PILLOW OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx7255-ray-ban",
+      "title": "RX7255 OVAL OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx8436m-ray-ban",
+      "title": "RX8436M SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx8783d-ray-ban",
+      "title": "RX8783D SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx8908-ray-ban",
+      "title": "RX8908 RECTANGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ry1060-ray-ban",
+      "title": "RY1060 IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ry1549-ray-ban",
+      "title": "RY1549 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ry1555-ray-ban",
+      "title": "RY1555 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ry1586-ray-ban",
+      "title": "RY1586 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ry1591-ray-ban",
+      "title": "RY1591 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ry1631-ray-ban",
+      "title": "RY1631 PHANTOS OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ry1950-ray-ban",
+      "title": "RY1950 SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ry9551v-ray-ban",
+      "title": "RY9551V SQUARE OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "bpx-166-balmain",
+      "title": "SAINT JEAN - II HEXAGONAL OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "6s9020-costa-del-mar",
+      "title": "SALTBREAK PILLOW SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-177-balmain",
+      "title": "SERGEANT AVIATOR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aps-177-balmain",
+      "title": "SERGEANT AVIATOR SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "apx-178-balmain",
+      "title": "SERGEANT II RECTANGULAR OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th40001i-l-tag-heuer",
+      "title": "SHIELD PRO MASK SUNGLASS",
+      "brand": "TAG HEUER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oy8001-oakley",
+      "title": "SHIFTER XS SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx7257-ray-ban",
+      "title": "SHILO OVAL OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb3138-ray-ban",
+      "title": "SHOOTER AVIATOR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9288-oakley",
+      "title": "SIELO ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40180u-loewe",
+      "title": "SIGNATURE AVIATOR SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40171u-loewe",
+      "title": "SIGNATURE CAT EYE SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40150u-loewe",
+      "title": "SIGNATURE GEOMETRIC SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40169i-loewe",
+      "title": "SIGNATURE GEOMETRIC SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40064u-loewe",
+      "title": "SIGNATURE MASK SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40164u-loewe",
+      "title": "SIGNATURE OVAL SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "fe40118i-fendi",
+      "title": "SIGNATURE RECTANGULAR SUNGLASS",
+      "brand": "FENDI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40149u-loewe",
+      "title": "SIGNATURE ROUND SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40143u-loewe",
+      "title": "SIGNATURE SHIELD SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rw4014-ray-ban",
+      "title": "SKYLER CAT EYE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "sl-m103-saint-laurent",
+      "title": "SL M103 CAT EYE SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "sl402-saint-laurent",
+      "title": "SL402 RECTANGULAR SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "sl740-saint-laurent",
+      "title": "SL740 RECTANGULAR SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "sl745-saint-laurent",
+      "title": "SL745 AVIATOR OPTICAL",
+      "brand": "SAINT LAURENT",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "sl791-saint-laurent",
+      "title": "SL791 RECTANGULAR SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "lw40162u-loewe",
+      "title": "SLIM ROUND SUNGLASS",
+      "brand": "LOEWE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "slm131-saint-laurent",
+      "title": "SLM131 RECTANGULAR SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "slm140-saint-laurent",
+      "title": "SLM140 RECTANGULAR SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "slm94-saint-laurent",
+      "title": "SLM94 CAT EYE SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox3218-oakley",
+      "title": "SOCKET 5.5 RECTANGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "oo9403-oakley",
+      "title": "SPHAERA RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9499-oakley",
+      "title": "SPHAERA SLASH RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9474-oakley",
+      "title": "SPINDRIFT ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-525-akoni",
+      "title": "SPITZER AVIATOR SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9416-oakley",
+      "title": "SPLIT SHOT RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo4129-oakley",
+      "title": "SPLIT TIME AVIATOR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rbr0104s-ray-ban",
+      "title": "SQUARE REVERSE SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb1971-ray-ban",
+      "title": "SQUARE SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo4075-oakley",
+      "title": "SQUARE WIRE RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2186-ray-ban",
+      "title": "STATE STREET SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "status-06-movitra",
+      "title": "STATUS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "status-07-movitra",
+      "title": "STATUS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "oo9463-oakley",
+      "title": "SUTRO LITE RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9465-oakley",
+      "title": "SUTRO LITE SWEEP RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9406-oakley",
+      "title": "SUTRO RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9462-oakley",
+      "title": "SUTRO S RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9448-oakley",
+      "title": "SYLAS RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "tectum-02-movitra",
+      "title": "TECTUM SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "akx-523-akoni",
+      "title": "TELESTO AVIATOR OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "bpx-182-balmain",
+      "title": "TEMPO WELLINGTON OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "tf1167d-tiffany",
+      "title": "TF1167D ROUND OPTICAL",
+      "brand": "TIFFANY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "tf1170d-tiffany",
+      "title": "TF1170D SQUARE OPTICAL",
+      "brand": "TIFFANY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "tf1171d-tiffany",
+      "title": "TF1171D OVAL OPTICAL",
+      "brand": "TIFFANY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "tf1172b-tiffany",
+      "title": "TF1172B CAT EYE OPTICAL",
+      "brand": "TIFFANY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "tf1173k-tiffany",
+      "title": "TF1173K AVIATOR OPTICAL",
+      "brand": "TIFFANY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "tf2267-tiffany",
+      "title": "TF2267 SQUARE OPTICAL",
+      "brand": "TIFFANY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "tf2271-tiffany",
+      "title": "TF2271 CAT EYE OPTICAL",
+      "brand": "TIFFANY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "tf3111-tiffany",
+      "title": "TF3111 RECTANGULAR SUNGLASS",
+      "brand": "TIFFANY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "tf4231u-tiffany",
+      "title": "TF4231U CAT EYE SUNGLASS",
+      "brand": "TIFFANY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ks-522-akoni",
+      "title": "THEMIS PHANTOS SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-522-akoni",
+      "title": "THEMIS PHANTOS SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9286-oakley",
+      "title": "THURSO ROUND SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "aks-510-akoni",
+      "title": "TIROS AVIATOR SUNGLASS",
+      "brand": "AKONI",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oy8012-oakley",
+      "title": "TOP LEVEL IRREGULAR OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "trinitas-02-movitra",
+      "title": "TRINITAS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "trinitas-03-movitra",
+      "title": "TRINITAS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "trinitas-04-movitra",
+      "title": "TRINITAS SUNGLASSES",
+      "brand": "MOVITRA",
+      "product_type": "SUNGLASSES"
+    },
+    {
+      "handle": "cl50146i-celine",
+      "title": "TRIOMPHE BUTTERFLY OPTICAL",
+      "brand": "CELINE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40226u-celine",
+      "title": "TRIOMPHE BUTTERFLY SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40216u-celine",
+      "title": "TRIOMPHE GEOMETRIC SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40334u-celine",
+      "title": "TRIOMPHE GEOMETRIC SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40194u-celine",
+      "title": "TRIOMPHE OVAL SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40331u-celine",
+      "title": "TRIOMPHE PILOT SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl50173i-celine",
+      "title": "TRIOMPHE RECTANGULAR OPTICAL",
+      "brand": "CELINE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40335i-celine",
+      "title": "TRIOMPHE RECTANGULAR SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40292u-celine",
+      "title": "TRIOMPHE ROUND SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl40312u-celine",
+      "title": "TRIOMPHE ROUND SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cl50172i-celine",
+      "title": "TRIOMPHE SQUARE OPTICAL",
+      "brand": "CELINE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "cl40304u-celine",
+      "title": "TRIOMPHE SQUARE SUNGLASS",
+      "brand": "CELINE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "6s9009-costa-del-mar",
+      "title": "TUNA ALLEY RECTANGULAR SUNGLASS",
+      "brand": "COSTA DEL MAR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9189-oakley",
+      "title": "TWOFACE SQUARE SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9191-oakley",
+      "title": "UNSTOPPABLE RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "oo9236-oakley",
+      "title": "VALVE RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ow8001-oakley",
+      "title": "VANGUARD RECTANGULAR SUNGLASS",
+      "brand": "OAKLEY",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve1274-versace",
+      "title": "VE1274 SQUARE OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve1304-versace",
+      "title": "VE1304 CAT EYE OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve1305-versace",
+      "title": "VE1305 ROUND OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve1314d-versace",
+      "title": "VE1314D IRREGULAR OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve2225-versace",
+      "title": "VE2225 AVIATOR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve2264-versace",
+      "title": "VE2264 OVAL SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve2274-versace",
+      "title": "VE2274 IRREGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve2287-versace",
+      "title": "VE2287 IRREGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve3367u-versace",
+      "title": "VE3367U CAT EYE OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve3372u-versace",
+      "title": "VE3372U CAT EYE OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve3381u-versace",
+      "title": "VE3381U OVAL OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve3383-versace",
+      "title": "VE3383 CAT EYE OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve3385u-versace",
+      "title": "VE3385U SQUARE OPTICAL",
+      "brand": "VERSACE",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "ve4430u-versace",
+      "title": "VE4430U RECTANGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve4480u-versace",
+      "title": "VE4480U CAT EYE SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve4487-versace",
+      "title": "VE4487 IRREGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve4489u-versace",
+      "title": "VE4489U IRREGULAR SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ve4501-versace",
+      "title": "VE4501 CAT EYE SUNGLASS",
+      "brand": "VERSACE",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "cd40181i-dior-woman",
+      "title": "VERYDIOR S2I BUTTERFLY SUNGLASS",
+      "brand": "DIOR",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bps-169-balmain",
+      "title": "VICTOIRE CAT EYE SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "th50012i-tag-heuer",
+      "title": "VINGT SEPT GEOMETRIC OPTICAL",
+      "brand": "TAG HEUER",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "th40015i-tag-heuer",
+      "title": "VINGT SEPT RECTANGULAR SUNGLASS",
+      "brand": "TAG HEUER",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "vis-insita-01-d-movitra",
+      "title": "VIS INSITA OPTICAL",
+      "brand": "MOVITRA",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "sl651-saint-laurent",
+      "title": "VITTI RECTANGULAR SUNGLASS",
+      "brand": "SAINT LAURENT",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "rb2140-ray-ban",
+      "title": "WAYFARER SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "ox8166-oakley",
+      "title": "WHEEL HOUSE SQUARE OPTICAL",
+      "brand": "OAKLEY",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb8097-ray-ban",
+      "title": "WILLIAM TITANIUM SQUARE SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "akx-530-akoni",
+      "title": "WISE - FOUR RECTANGULAR OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "kx-520-akoni",
+      "title": "WISE THREE PHANTOS OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "akx-520-akoni",
+      "title": "WISE THREE PHANTOS OPTICAL",
+      "brand": "AKONI",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "bps-102-balmain",
+      "title": "WONDER BOY SHIELD SUNGLASS",
+      "brand": "BALMAIN",
+      "product_type": "SUNGLASS"
+    },
+    {
+      "handle": "bpx-162-balmain",
+      "title": "YVONNE PHANTOS OPTICAL",
+      "brand": "BALMAIN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rx7330-ray-ban",
+      "title": "ZENA IRREGULAR OPTICAL",
+      "brand": "RAY-BAN",
+      "product_type": "OPTICAL"
+    },
+    {
+      "handle": "rb4430-ray-ban",
+      "title": "ZENA IRREGULAR SUNGLASS",
+      "brand": "RAY-BAN",
+      "product_type": "SUNGLASS"
+    }
+  ]
+}
